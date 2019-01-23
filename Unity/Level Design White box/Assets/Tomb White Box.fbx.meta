@@ -1,0 +1,3317 @@
+fileFormatVersion: 2
+guid: ddeded16d1f0103489849a672b6c694c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ankle
+    100002: Ankle 1
+    100004: Arc
+    100006: Arc 1
+    100008: Armpit
+    100010: Armpit 1
+    100012: Armpit 2
+    100014: Armpit 3
+    100016: Armpit 4
+    100018: Armpit 5
+    100020: Armpit 6
+    100022: Armpit 7
+    100024: Belt
+    100026: Bicep
+    100028: Bicep 1
+    100030: Bicep 2
+    100032: Bicep 3
+    100034: Bicep 4
+    100036: Bicep 5
+    100038: Bicep 6
+    100040: Bicep 7
+    100042: Bracer
+    100044: Bracer 1
+    100046: Bracer 2
+    100048: Bracer 3
+    100050: Bracer 4
+    100052: Bracer 5
+    100054: Bracer 6
+    100056: Bracer 7
+    100058: Bridge
+    100060: Cape
+    100062: Cape 1
+    100064: Cape 2
+    100066: Cape 3
+    100068: Cape1
+    100070: Cape1 1
+    100072: Cape1 2
+    100074: Cape1 3
+    100076: Cape_Pin
+    100078: Cape_Pin 1
+    100080: Cape_Pin 2
+    100082: Cape_Pin 3
+    100084: Display_Piece
+    100086: Door_Statue
+    100088: Door_Statue1
+    100090: fangs
+    100092: Finger
+    100094: Finger 1
+    100096: Finger 2
+    100098: Finger 3
+    100100: Finger 4
+    100102: Finger 5
+    100104: Finger 6
+    100106: Finger 7
+    100108: Finger1
+    100110: Finger1 1
+    100112: Finger1 2
+    100114: Finger1 3
+    100116: Finger1 4
+    100118: Finger1 5
+    100120: Finger1 6
+    100122: Finger1 7
+    100124: Finger2
+    100126: Finger2 1
+    100128: Finger2 2
+    100130: Finger2 3
+    100132: Finger2 4
+    100134: Finger2 5
+    100136: Finger2 6
+    100138: Finger2 7
+    100140: Finger3
+    100142: Finger3 1
+    100144: Finger3 2
+    100146: Finger3 3
+    100148: Finger3 4
+    100150: Finger3 5
+    100152: Finger3 6
+    100154: Finger3 7
+    100156: Finger4
+    100158: Finger4 1
+    100160: Finger4 2
+    100162: Finger4 3
+    100164: Finger4 4
+    100166: Finger4 5
+    100168: Finger4 6
+    100170: Finger4 7
+    100172: Foot
+    100174: Foot 1
+    100176: Forearm
+    100178: Forearm 1
+    100180: Forearm 2
+    100182: Forearm 3
+    100184: Forearm 4
+    100186: Forearm 5
+    100188: Forearm 6
+    100190: Forearm 7
+    100192: Game_axe:fangs
+    100194: Game_axe:Head_1
+    100196: Game_axe:Head_2
+    100198: Game_axe:Head_3
+    100200: Game_axe:Head_4
+    100202: Game_axe:Hilt
+    100204: Game_axe:Hilt_1
+    100206: Game_axe:Hilt_4
+    100208: Game_axe:Hilt_5
+    100210: Game_axe:Hilt_6
+    100212: Game_axe:Jim_s_Axe
+    100214: Game_axe:Jim_WhiteboxAnimationSetup01:transform1
+    100216: Game_axe:Jim_WhiteboxAnimationSetup01:transform2
+    100218: Game_axe:Jim_WhiteboxAnimationSetup03:transform1
+    100220: Game_axe:Jim_WhiteboxAnimationSetup03:transform2
+    100222: Game_axe:Leather_wrap
+    100224: Game_axe:Leather_wrap_1
+    100226: Game_axe:leather_wrap_10
+    100228: Game_axe:Leather_wrap_2
+    100230: Game_axe:Leather_wrap_3
+    100232: Game_axe:Leather_wrap_4
+    100234: Game_axe:Leather_wrap_5
+    100236: Game_axe:Leather_wrap_6
+    100238: Game_axe:Leather_wrap_7
+    100240: Game_axe:Leather_wrap_8
+    100242: Game_axe:Leather_wrap_9
+    100244: Game_axe:polySurface34
+    100246: Game_axe:polySurface35
+    100248: Game_axe:polySurface36
+    100250: Game_axe:polySurface37
+    100252: Game_axe:polySurface38
+    100254: Game_axe:polySurface39
+    100256: Game_axe:polySurface40
+    100258: Game_axe:Rivot_14
+    100260: Game_axe:Rivot_15
+    100262: Game_axe:Rivot_19
+    100264: Game_axe:Rivot_20
+    100266: Game_axe:Rivot_21
+    100268: Game_axe:Rivot_3
+    100270: Game_axe:Spike
+    100272: Game_axe:Spike_1
+    100274: Game_axe:Spike_2
+    100276: Game_axe:Wolf_Head
+    100278: Gate
+    100280: Geo
+    100282: Geo 1
+    100284: Geo 2
+    100286: Geo 3
+    100288: Grave
+    100290: Grave 1
+    100292: Grave1
+    100294: Grave1 1
+    100296: Graves
+    100298: Graves1
+    100300: Hand
+    100302: Hand 1
+    100304: Hand 10
+    100306: Hand 11
+    100308: Hand 12
+    100310: Hand 13
+    100312: Hand 14
+    100314: Hand 15
+    100316: Hand 2
+    100318: Hand 3
+    100320: Hand 4
+    100322: Hand 5
+    100324: Hand 6
+    100326: Hand 7
+    100328: Hand 8
+    100330: Hand 9
+    100332: head
+    100334: head 1
+    100336: head 2
+    100338: head 3
+    100340: Head_1
+    100342: Head_2
+    100344: Head_3
+    100346: Head_4
+    100348: Heel
+    100350: Heel 1
+    100352: Hilt
+    100354: Hilt_1
+    100356: Hilt_4
+    100358: Hilt_5
+    100360: Hilt_6
+    100362: Jim_s_Axe
+    100364: Knee
+    100366: Knee 1
+    100368: Knuckle
+    100370: Knuckle 1
+    100372: Knuckle 2
+    100374: Knuckle 3
+    100376: Knuckle 4
+    100378: Knuckle 5
+    100380: Knuckle 6
+    100382: Knuckle 7
+    100384: Knuckle1
+    100386: Knuckle1 1
+    100388: Knuckle1 2
+    100390: Knuckle1 3
+    100392: Knuckle1 4
+    100394: Knuckle1 5
+    100396: Knuckle1 6
+    100398: Knuckle1 7
+    100400: Knuckle2
+    100402: Knuckle2 1
+    100404: Knuckle2 2
+    100406: Knuckle2 3
+    100408: Knuckle2 4
+    100410: Knuckle2 5
+    100412: Knuckle2 6
+    100414: Knuckle2 7
+    100416: Knuckle3
+    100418: Knuckle3 1
+    100420: Knuckle3 2
+    100422: Knuckle3 3
+    100424: Knuckle3 4
+    100426: Knuckle3 5
+    100428: Knuckle3 6
+    100430: Knuckle3 7
+    100432: L_Arm
+    100434: L_Arm 1
+    100436: L_Arm 2
+    100438: L_Arm 3
+    100440: L_Leg
+    100442: Leather_wrap
+    100444: Leather_wrap_1
+    100446: leather_wrap_10
+    100448: Leather_wrap_2
+    100450: Leather_wrap_3
+    100452: Leather_wrap_4
+    100454: Leather_wrap_5
+    100456: Leather_wrap_6
+    100458: Leather_wrap_7
+    100460: Leather_wrap_8
+    100462: Leather_wrap_9
+    100464: Leg
+    100466: Leg 1
+    100468: Lower_torso
+    100470: Lower_torso 1
+    100472: Lower_torso 2
+    100474: Lower_torso 3
+    100476: Main_Terrain
+    100478: Neck
+    100480: Neck 1
+    100482: Neck 2
+    100484: Neck 3
+    100486: Outside_statue
+    100488: Outside_statue1
+    100490: pCube2
+    100492: pCube2 1
+    100494: pCube2 2
+    100496: pCube3
+    100498: pCube3 1
+    100500: pCylinder1
+    100502: pCylinder1 1
+    100504: pCylinder1 2
+    100506: pCylinder1 3
+    100508: pCylinder1 4
+    100510: pCylinder1 5
+    100512: pCylinder1 6
+    100514: pCylinder1 7
+    100516: pCylinder2
+    100518: pCylinder2 1
+    100520: pCylinder2 2
+    100522: pCylinder2 3
+    100524: pCylinder2 4
+    100526: pCylinder2 5
+    100528: pCylinder2 6
+    100530: pCylinder2 7
+    100532: pCylinder3
+    100534: pCylinder3 1
+    100536: pCylinder3 10
+    100538: pCylinder3 11
+    100540: pCylinder3 12
+    100542: pCylinder3 13
+    100544: pCylinder3 14
+    100546: pCylinder3 15
+    100548: pCylinder3 16
+    100550: pCylinder3 17
+    100552: pCylinder3 18
+    100554: pCylinder3 19
+    100556: pCylinder3 2
+    100558: pCylinder3 20
+    100560: pCylinder3 21
+    100562: pCylinder3 22
+    100564: pCylinder3 23
+    100566: pCylinder3 24
+    100568: pCylinder3 25
+    100570: pCylinder3 26
+    100572: pCylinder3 27
+    100574: pCylinder3 28
+    100576: pCylinder3 29
+    100578: pCylinder3 3
+    100580: pCylinder3 30
+    100582: pCylinder3 31
+    100584: pCylinder3 4
+    100586: pCylinder3 5
+    100588: pCylinder3 6
+    100590: pCylinder3 7
+    100592: pCylinder3 8
+    100594: pCylinder3 9
+    100596: pCylinder4
+    100598: pCylinder4 1
+    100600: pCylinder4 10
+    100602: pCylinder4 11
+    100604: pCylinder4 12
+    100606: pCylinder4 13
+    100608: pCylinder4 14
+    100610: pCylinder4 15
+    100612: pCylinder4 16
+    100614: pCylinder4 17
+    100616: pCylinder4 18
+    100618: pCylinder4 19
+    100620: pCylinder4 2
+    100622: pCylinder4 20
+    100624: pCylinder4 21
+    100626: pCylinder4 22
+    100628: pCylinder4 23
+    100630: pCylinder4 24
+    100632: pCylinder4 25
+    100634: pCylinder4 26
+    100636: pCylinder4 27
+    100638: pCylinder4 28
+    100640: pCylinder4 29
+    100642: pCylinder4 3
+    100644: pCylinder4 30
+    100646: pCylinder4 31
+    100648: pCylinder4 4
+    100650: pCylinder4 5
+    100652: pCylinder4 6
+    100654: pCylinder4 7
+    100656: pCylinder4 8
+    100658: pCylinder4 9
+    100660: pCylinder5
+    100662: pCylinder5 1
+    100664: pCylinder5 10
+    100666: pCylinder5 11
+    100668: pCylinder5 12
+    100670: pCylinder5 13
+    100672: pCylinder5 14
+    100674: pCylinder5 15
+    100676: pCylinder5 16
+    100678: pCylinder5 17
+    100680: pCylinder5 18
+    100682: pCylinder5 19
+    100684: pCylinder5 2
+    100686: pCylinder5 20
+    100688: pCylinder5 21
+    100690: pCylinder5 22
+    100692: pCylinder5 23
+    100694: pCylinder5 24
+    100696: pCylinder5 25
+    100698: pCylinder5 26
+    100700: pCylinder5 27
+    100702: pCylinder5 28
+    100704: pCylinder5 29
+    100706: pCylinder5 3
+    100708: pCylinder5 30
+    100710: pCylinder5 31
+    100712: pCylinder5 4
+    100714: pCylinder5 5
+    100716: pCylinder5 6
+    100718: pCylinder5 7
+    100720: pCylinder5 8
+    100722: pCylinder5 9
+    100724: player_scale
+    100726: polySurface34
+    100728: polySurface35
+    100730: polySurface36
+    100732: polySurface37
+    100734: polySurface38
+    100736: polySurface39
+    100738: polySurface40
+    100740: pSphere10
+    100742: pSphere10 1
+    100744: pSphere10 10
+    100746: pSphere10 11
+    100748: pSphere10 12
+    100750: pSphere10 13
+    100752: pSphere10 14
+    100754: pSphere10 15
+    100756: pSphere10 16
+    100758: pSphere10 17
+    100760: pSphere10 18
+    100762: pSphere10 19
+    100764: pSphere10 2
+    100766: pSphere10 20
+    100768: pSphere10 21
+    100770: pSphere10 22
+    100772: pSphere10 23
+    100774: pSphere10 24
+    100776: pSphere10 25
+    100778: pSphere10 26
+    100780: pSphere10 27
+    100782: pSphere10 28
+    100784: pSphere10 29
+    100786: pSphere10 3
+    100788: pSphere10 30
+    100790: pSphere10 31
+    100792: pSphere10 4
+    100794: pSphere10 5
+    100796: pSphere10 6
+    100798: pSphere10 7
+    100800: pSphere10 8
+    100802: pSphere10 9
+    100804: pSphere11
+    100806: pSphere8
+    100808: pSphere8 1
+    100810: pSphere8 2
+    100812: pSphere8 3
+    100814: pSphere8 4
+    100816: pSphere8 5
+    100818: pSphere8 6
+    100820: pSphere8 7
+    100822: pSphere9
+    100824: pSphere9 1
+    100826: pSphere9 10
+    100828: pSphere9 11
+    100830: pSphere9 12
+    100832: pSphere9 13
+    100834: pSphere9 14
+    100836: pSphere9 15
+    100838: pSphere9 16
+    100840: pSphere9 17
+    100842: pSphere9 18
+    100844: pSphere9 19
+    100846: pSphere9 2
+    100848: pSphere9 20
+    100850: pSphere9 21
+    100852: pSphere9 22
+    100854: pSphere9 23
+    100856: pSphere9 24
+    100858: pSphere9 25
+    100860: pSphere9 26
+    100862: pSphere9 27
+    100864: pSphere9 28
+    100866: pSphere9 29
+    100868: pSphere9 3
+    100870: pSphere9 30
+    100872: pSphere9 31
+    100874: pSphere9 4
+    100876: pSphere9 5
+    100878: pSphere9 6
+    100880: pSphere9 7
+    100882: pSphere9 8
+    100884: pSphere9 9
+    100886: pTorus1
+    100888: pTorus1 1
+    100890: pTorus2
+    100892: pTorus2 1
+    100894: R_Arm
+    100896: R_Arm 1
+    100898: R_Arm 2
+    100900: R_Arm 3
+    100902: R_Leg
+    100904: Rivot_14
+    100906: Rivot_15
+    100908: Rivot_19
+    100910: Rivot_20
+    100912: Rivot_21
+    100914: Rivot_3
+    100916: Sholder
+    100918: Sholder 1
+    100920: Sholder 2
+    100922: Sholder 3
+    100924: Sholder 4
+    100926: Sholder 5
+    100928: Sholder 6
+    100930: Sholder 7
+    100932: Spartan:Ankle
+    100934: Spartan:Ankle 1
+    100936: Spartan:Arc
+    100938: Spartan:Arc 1
+    100940: Spartan:Armpit
+    100942: Spartan:Armpit 1
+    100944: Spartan:Belt
+    100946: Spartan:Bicep
+    100948: Spartan:Bicep 1
+    100950: Spartan:Bracer
+    100952: Spartan:Bracer 1
+    100954: Spartan:Cape
+    100956: Spartan:Cape1
+    100958: Spartan:Cape_Pin
+    100960: Spartan:Finger
+    100962: Spartan:Finger 1
+    100964: Spartan:Finger1
+    100966: Spartan:Finger1 1
+    100968: Spartan:Finger2
+    100970: Spartan:Finger2 1
+    100972: Spartan:Finger3
+    100974: Spartan:Finger3 1
+    100976: Spartan:Finger4
+    100978: Spartan:Finger4 1
+    100980: Spartan:Foot
+    100982: Spartan:Foot 1
+    100984: Spartan:Forearm
+    100986: Spartan:Forearm 1
+    100988: Spartan:Geo
+    100990: Spartan:Hand
+    100992: Spartan:Hand 1
+    100994: Spartan:Hand 2
+    100996: Spartan:Hand 3
+    100998: Spartan:head
+    101000: Spartan:Heel
+    101002: Spartan:Heel 1
+    101004: Spartan:Knee
+    101006: Spartan:Knee 1
+    101008: Spartan:Knuckle
+    101010: Spartan:Knuckle 1
+    101012: Spartan:Knuckle1
+    101014: Spartan:Knuckle1 1
+    101016: Spartan:Knuckle2
+    101018: Spartan:Knuckle2 1
+    101020: Spartan:Knuckle3
+    101022: Spartan:Knuckle3 1
+    101024: Spartan:L_Arm
+    101026: Spartan:L_Leg
+    101028: Spartan:Leg
+    101030: Spartan:Leg 1
+    101032: Spartan:Lower_torso
+    101034: Spartan:Neck
+    101036: Spartan:pCylinder1
+    101038: Spartan:pCylinder1 1
+    101040: Spartan:pCylinder2
+    101042: Spartan:pCylinder2 1
+    101044: Spartan:pCylinder3
+    101046: Spartan:pCylinder3 1
+    101048: Spartan:pCylinder3 2
+    101050: Spartan:pCylinder3 3
+    101052: Spartan:pCylinder3 4
+    101054: Spartan:pCylinder3 5
+    101056: Spartan:pCylinder3 6
+    101058: Spartan:pCylinder3 7
+    101060: Spartan:pCylinder4
+    101062: Spartan:pCylinder4 1
+    101064: Spartan:pCylinder4 2
+    101066: Spartan:pCylinder4 3
+    101068: Spartan:pCylinder4 4
+    101070: Spartan:pCylinder4 5
+    101072: Spartan:pCylinder4 6
+    101074: Spartan:pCylinder4 7
+    101076: Spartan:pCylinder5
+    101078: Spartan:pCylinder5 1
+    101080: Spartan:pCylinder5 2
+    101082: Spartan:pCylinder5 3
+    101084: Spartan:pCylinder5 4
+    101086: Spartan:pCylinder5 5
+    101088: Spartan:pCylinder5 6
+    101090: Spartan:pCylinder5 7
+    101092: Spartan:pSphere10
+    101094: Spartan:pSphere10 1
+    101096: Spartan:pSphere10 2
+    101098: Spartan:pSphere10 3
+    101100: Spartan:pSphere10 4
+    101102: Spartan:pSphere10 5
+    101104: Spartan:pSphere10 6
+    101106: Spartan:pSphere10 7
+    101108: Spartan:pSphere8
+    101110: Spartan:pSphere8 1
+    101112: Spartan:pSphere9
+    101114: Spartan:pSphere9 1
+    101116: Spartan:pSphere9 2
+    101118: Spartan:pSphere9 3
+    101120: Spartan:pSphere9 4
+    101122: Spartan:pSphere9 5
+    101124: Spartan:pSphere9 6
+    101126: Spartan:pSphere9 7
+    101128: Spartan:R_Arm
+    101130: Spartan:R_Leg
+    101132: Spartan:Sholder
+    101134: Spartan:Sholder 1
+    101136: Spartan:Thigh
+    101138: Spartan:Thigh 1
+    101140: Spartan:Thigh_1
+    101142: Spartan:Thigh_1 1
+    101144: Spartan:Thumb_Base
+    101146: Spartan:Thumb_Base 1
+    101148: Spartan:Toes
+    101150: Spartan:Toes 1
+    101152: Spartan:Torso
+    101154: Spartan:Torso1
+    101156: Spartan:Waist
+    101158: Spartan:Waist 1
+    101160: Spike
+    101162: Spike_1
+    101164: Spike_2
+    101166: Thigh
+    101168: Thigh 1
+    101170: Thigh_1
+    101172: Thigh_1 1
+    101174: Thumb_Base
+    101176: Thumb_Base 1
+    101178: Thumb_Base 2
+    101180: Thumb_Base 3
+    101182: Thumb_Base 4
+    101184: Thumb_Base 5
+    101186: Thumb_Base 6
+    101188: Thumb_Base 7
+    101190: Toes
+    101192: Toes 1
+    101194: Tomb
+    101196: //RootNode
+    101198: Tomb_Gate
+    101200: Torso
+    101202: Torso 1
+    101204: Torso 2
+    101206: Torso 3
+    101208: Torso1
+    101210: Torso1 1
+    101212: Torso1 2
+    101214: Torso1 3
+    101216: Waist
+    101218: Waist 1
+    101220: Wolf_Head
+    400000: Ankle
+    400002: Ankle 1
+    400004: Arc
+    400006: Arc 1
+    400008: Armpit
+    400010: Armpit 1
+    400012: Armpit 2
+    400014: Armpit 3
+    400016: Armpit 4
+    400018: Armpit 5
+    400020: Armpit 6
+    400022: Armpit 7
+    400024: Belt
+    400026: Bicep
+    400028: Bicep 1
+    400030: Bicep 2
+    400032: Bicep 3
+    400034: Bicep 4
+    400036: Bicep 5
+    400038: Bicep 6
+    400040: Bicep 7
+    400042: Bracer
+    400044: Bracer 1
+    400046: Bracer 2
+    400048: Bracer 3
+    400050: Bracer 4
+    400052: Bracer 5
+    400054: Bracer 6
+    400056: Bracer 7
+    400058: Bridge
+    400060: Cape
+    400062: Cape 1
+    400064: Cape 2
+    400066: Cape 3
+    400068: Cape1
+    400070: Cape1 1
+    400072: Cape1 2
+    400074: Cape1 3
+    400076: Cape_Pin
+    400078: Cape_Pin 1
+    400080: Cape_Pin 2
+    400082: Cape_Pin 3
+    400084: Display_Piece
+    400086: Door_Statue
+    400088: Door_Statue1
+    400090: fangs
+    400092: Finger
+    400094: Finger 1
+    400096: Finger 2
+    400098: Finger 3
+    400100: Finger 4
+    400102: Finger 5
+    400104: Finger 6
+    400106: Finger 7
+    400108: Finger1
+    400110: Finger1 1
+    400112: Finger1 2
+    400114: Finger1 3
+    400116: Finger1 4
+    400118: Finger1 5
+    400120: Finger1 6
+    400122: Finger1 7
+    400124: Finger2
+    400126: Finger2 1
+    400128: Finger2 2
+    400130: Finger2 3
+    400132: Finger2 4
+    400134: Finger2 5
+    400136: Finger2 6
+    400138: Finger2 7
+    400140: Finger3
+    400142: Finger3 1
+    400144: Finger3 2
+    400146: Finger3 3
+    400148: Finger3 4
+    400150: Finger3 5
+    400152: Finger3 6
+    400154: Finger3 7
+    400156: Finger4
+    400158: Finger4 1
+    400160: Finger4 2
+    400162: Finger4 3
+    400164: Finger4 4
+    400166: Finger4 5
+    400168: Finger4 6
+    400170: Finger4 7
+    400172: Foot
+    400174: Foot 1
+    400176: Forearm
+    400178: Forearm 1
+    400180: Forearm 2
+    400182: Forearm 3
+    400184: Forearm 4
+    400186: Forearm 5
+    400188: Forearm 6
+    400190: Forearm 7
+    400192: Game_axe:fangs
+    400194: Game_axe:Head_1
+    400196: Game_axe:Head_2
+    400198: Game_axe:Head_3
+    400200: Game_axe:Head_4
+    400202: Game_axe:Hilt
+    400204: Game_axe:Hilt_1
+    400206: Game_axe:Hilt_4
+    400208: Game_axe:Hilt_5
+    400210: Game_axe:Hilt_6
+    400212: Game_axe:Jim_s_Axe
+    400214: Game_axe:Jim_WhiteboxAnimationSetup01:transform1
+    400216: Game_axe:Jim_WhiteboxAnimationSetup01:transform2
+    400218: Game_axe:Jim_WhiteboxAnimationSetup03:transform1
+    400220: Game_axe:Jim_WhiteboxAnimationSetup03:transform2
+    400222: Game_axe:Leather_wrap
+    400224: Game_axe:Leather_wrap_1
+    400226: Game_axe:leather_wrap_10
+    400228: Game_axe:Leather_wrap_2
+    400230: Game_axe:Leather_wrap_3
+    400232: Game_axe:Leather_wrap_4
+    400234: Game_axe:Leather_wrap_5
+    400236: Game_axe:Leather_wrap_6
+    400238: Game_axe:Leather_wrap_7
+    400240: Game_axe:Leather_wrap_8
+    400242: Game_axe:Leather_wrap_9
+    400244: Game_axe:polySurface34
+    400246: Game_axe:polySurface35
+    400248: Game_axe:polySurface36
+    400250: Game_axe:polySurface37
+    400252: Game_axe:polySurface38
+    400254: Game_axe:polySurface39
+    400256: Game_axe:polySurface40
+    400258: Game_axe:Rivot_14
+    400260: Game_axe:Rivot_15
+    400262: Game_axe:Rivot_19
+    400264: Game_axe:Rivot_20
+    400266: Game_axe:Rivot_21
+    400268: Game_axe:Rivot_3
+    400270: Game_axe:Spike
+    400272: Game_axe:Spike_1
+    400274: Game_axe:Spike_2
+    400276: Game_axe:Wolf_Head
+    400278: Gate
+    400280: Geo
+    400282: Geo 1
+    400284: Geo 2
+    400286: Geo 3
+    400288: Grave
+    400290: Grave 1
+    400292: Grave1
+    400294: Grave1 1
+    400296: Graves
+    400298: Graves1
+    400300: Hand
+    400302: Hand 1
+    400304: Hand 10
+    400306: Hand 11
+    400308: Hand 12
+    400310: Hand 13
+    400312: Hand 14
+    400314: Hand 15
+    400316: Hand 2
+    400318: Hand 3
+    400320: Hand 4
+    400322: Hand 5
+    400324: Hand 6
+    400326: Hand 7
+    400328: Hand 8
+    400330: Hand 9
+    400332: head
+    400334: head 1
+    400336: head 2
+    400338: head 3
+    400340: Head_1
+    400342: Head_2
+    400344: Head_3
+    400346: Head_4
+    400348: Heel
+    400350: Heel 1
+    400352: Hilt
+    400354: Hilt_1
+    400356: Hilt_4
+    400358: Hilt_5
+    400360: Hilt_6
+    400362: Jim_s_Axe
+    400364: Knee
+    400366: Knee 1
+    400368: Knuckle
+    400370: Knuckle 1
+    400372: Knuckle 2
+    400374: Knuckle 3
+    400376: Knuckle 4
+    400378: Knuckle 5
+    400380: Knuckle 6
+    400382: Knuckle 7
+    400384: Knuckle1
+    400386: Knuckle1 1
+    400388: Knuckle1 2
+    400390: Knuckle1 3
+    400392: Knuckle1 4
+    400394: Knuckle1 5
+    400396: Knuckle1 6
+    400398: Knuckle1 7
+    400400: Knuckle2
+    400402: Knuckle2 1
+    400404: Knuckle2 2
+    400406: Knuckle2 3
+    400408: Knuckle2 4
+    400410: Knuckle2 5
+    400412: Knuckle2 6
+    400414: Knuckle2 7
+    400416: Knuckle3
+    400418: Knuckle3 1
+    400420: Knuckle3 2
+    400422: Knuckle3 3
+    400424: Knuckle3 4
+    400426: Knuckle3 5
+    400428: Knuckle3 6
+    400430: Knuckle3 7
+    400432: L_Arm
+    400434: L_Arm 1
+    400436: L_Arm 2
+    400438: L_Arm 3
+    400440: L_Leg
+    400442: Leather_wrap
+    400444: Leather_wrap_1
+    400446: leather_wrap_10
+    400448: Leather_wrap_2
+    400450: Leather_wrap_3
+    400452: Leather_wrap_4
+    400454: Leather_wrap_5
+    400456: Leather_wrap_6
+    400458: Leather_wrap_7
+    400460: Leather_wrap_8
+    400462: Leather_wrap_9
+    400464: Leg
+    400466: Leg 1
+    400468: Lower_torso
+    400470: Lower_torso 1
+    400472: Lower_torso 2
+    400474: Lower_torso 3
+    400476: Main_Terrain
+    400478: Neck
+    400480: Neck 1
+    400482: Neck 2
+    400484: Neck 3
+    400486: Outside_statue
+    400488: Outside_statue1
+    400490: pCube2
+    400492: pCube2 1
+    400494: pCube2 2
+    400496: pCube3
+    400498: pCube3 1
+    400500: pCylinder1
+    400502: pCylinder1 1
+    400504: pCylinder1 2
+    400506: pCylinder1 3
+    400508: pCylinder1 4
+    400510: pCylinder1 5
+    400512: pCylinder1 6
+    400514: pCylinder1 7
+    400516: pCylinder2
+    400518: pCylinder2 1
+    400520: pCylinder2 2
+    400522: pCylinder2 3
+    400524: pCylinder2 4
+    400526: pCylinder2 5
+    400528: pCylinder2 6
+    400530: pCylinder2 7
+    400532: pCylinder3
+    400534: pCylinder3 1
+    400536: pCylinder3 10
+    400538: pCylinder3 11
+    400540: pCylinder3 12
+    400542: pCylinder3 13
+    400544: pCylinder3 14
+    400546: pCylinder3 15
+    400548: pCylinder3 16
+    400550: pCylinder3 17
+    400552: pCylinder3 18
+    400554: pCylinder3 19
+    400556: pCylinder3 2
+    400558: pCylinder3 20
+    400560: pCylinder3 21
+    400562: pCylinder3 22
+    400564: pCylinder3 23
+    400566: pCylinder3 24
+    400568: pCylinder3 25
+    400570: pCylinder3 26
+    400572: pCylinder3 27
+    400574: pCylinder3 28
+    400576: pCylinder3 29
+    400578: pCylinder3 3
+    400580: pCylinder3 30
+    400582: pCylinder3 31
+    400584: pCylinder3 4
+    400586: pCylinder3 5
+    400588: pCylinder3 6
+    400590: pCylinder3 7
+    400592: pCylinder3 8
+    400594: pCylinder3 9
+    400596: pCylinder4
+    400598: pCylinder4 1
+    400600: pCylinder4 10
+    400602: pCylinder4 11
+    400604: pCylinder4 12
+    400606: pCylinder4 13
+    400608: pCylinder4 14
+    400610: pCylinder4 15
+    400612: pCylinder4 16
+    400614: pCylinder4 17
+    400616: pCylinder4 18
+    400618: pCylinder4 19
+    400620: pCylinder4 2
+    400622: pCylinder4 20
+    400624: pCylinder4 21
+    400626: pCylinder4 22
+    400628: pCylinder4 23
+    400630: pCylinder4 24
+    400632: pCylinder4 25
+    400634: pCylinder4 26
+    400636: pCylinder4 27
+    400638: pCylinder4 28
+    400640: pCylinder4 29
+    400642: pCylinder4 3
+    400644: pCylinder4 30
+    400646: pCylinder4 31
+    400648: pCylinder4 4
+    400650: pCylinder4 5
+    400652: pCylinder4 6
+    400654: pCylinder4 7
+    400656: pCylinder4 8
+    400658: pCylinder4 9
+    400660: pCylinder5
+    400662: pCylinder5 1
+    400664: pCylinder5 10
+    400666: pCylinder5 11
+    400668: pCylinder5 12
+    400670: pCylinder5 13
+    400672: pCylinder5 14
+    400674: pCylinder5 15
+    400676: pCylinder5 16
+    400678: pCylinder5 17
+    400680: pCylinder5 18
+    400682: pCylinder5 19
+    400684: pCylinder5 2
+    400686: pCylinder5 20
+    400688: pCylinder5 21
+    400690: pCylinder5 22
+    400692: pCylinder5 23
+    400694: pCylinder5 24
+    400696: pCylinder5 25
+    400698: pCylinder5 26
+    400700: pCylinder5 27
+    400702: pCylinder5 28
+    400704: pCylinder5 29
+    400706: pCylinder5 3
+    400708: pCylinder5 30
+    400710: pCylinder5 31
+    400712: pCylinder5 4
+    400714: pCylinder5 5
+    400716: pCylinder5 6
+    400718: pCylinder5 7
+    400720: pCylinder5 8
+    400722: pCylinder5 9
+    400724: player_scale
+    400726: polySurface34
+    400728: polySurface35
+    400730: polySurface36
+    400732: polySurface37
+    400734: polySurface38
+    400736: polySurface39
+    400738: polySurface40
+    400740: pSphere10
+    400742: pSphere10 1
+    400744: pSphere10 10
+    400746: pSphere10 11
+    400748: pSphere10 12
+    400750: pSphere10 13
+    400752: pSphere10 14
+    400754: pSphere10 15
+    400756: pSphere10 16
+    400758: pSphere10 17
+    400760: pSphere10 18
+    400762: pSphere10 19
+    400764: pSphere10 2
+    400766: pSphere10 20
+    400768: pSphere10 21
+    400770: pSphere10 22
+    400772: pSphere10 23
+    400774: pSphere10 24
+    400776: pSphere10 25
+    400778: pSphere10 26
+    400780: pSphere10 27
+    400782: pSphere10 28
+    400784: pSphere10 29
+    400786: pSphere10 3
+    400788: pSphere10 30
+    400790: pSphere10 31
+    400792: pSphere10 4
+    400794: pSphere10 5
+    400796: pSphere10 6
+    400798: pSphere10 7
+    400800: pSphere10 8
+    400802: pSphere10 9
+    400804: pSphere11
+    400806: pSphere8
+    400808: pSphere8 1
+    400810: pSphere8 2
+    400812: pSphere8 3
+    400814: pSphere8 4
+    400816: pSphere8 5
+    400818: pSphere8 6
+    400820: pSphere8 7
+    400822: pSphere9
+    400824: pSphere9 1
+    400826: pSphere9 10
+    400828: pSphere9 11
+    400830: pSphere9 12
+    400832: pSphere9 13
+    400834: pSphere9 14
+    400836: pSphere9 15
+    400838: pSphere9 16
+    400840: pSphere9 17
+    400842: pSphere9 18
+    400844: pSphere9 19
+    400846: pSphere9 2
+    400848: pSphere9 20
+    400850: pSphere9 21
+    400852: pSphere9 22
+    400854: pSphere9 23
+    400856: pSphere9 24
+    400858: pSphere9 25
+    400860: pSphere9 26
+    400862: pSphere9 27
+    400864: pSphere9 28
+    400866: pSphere9 29
+    400868: pSphere9 3
+    400870: pSphere9 30
+    400872: pSphere9 31
+    400874: pSphere9 4
+    400876: pSphere9 5
+    400878: pSphere9 6
+    400880: pSphere9 7
+    400882: pSphere9 8
+    400884: pSphere9 9
+    400886: pTorus1
+    400888: pTorus1 1
+    400890: pTorus2
+    400892: pTorus2 1
+    400894: R_Arm
+    400896: R_Arm 1
+    400898: R_Arm 2
+    400900: R_Arm 3
+    400902: R_Leg
+    400904: Rivot_14
+    400906: Rivot_15
+    400908: Rivot_19
+    400910: Rivot_20
+    400912: Rivot_21
+    400914: Rivot_3
+    400916: Sholder
+    400918: Sholder 1
+    400920: Sholder 2
+    400922: Sholder 3
+    400924: Sholder 4
+    400926: Sholder 5
+    400928: Sholder 6
+    400930: Sholder 7
+    400932: Spartan:Ankle
+    400934: Spartan:Ankle 1
+    400936: Spartan:Arc
+    400938: Spartan:Arc 1
+    400940: Spartan:Armpit
+    400942: Spartan:Armpit 1
+    400944: Spartan:Belt
+    400946: Spartan:Bicep
+    400948: Spartan:Bicep 1
+    400950: Spartan:Bracer
+    400952: Spartan:Bracer 1
+    400954: Spartan:Cape
+    400956: Spartan:Cape1
+    400958: Spartan:Cape_Pin
+    400960: Spartan:Finger
+    400962: Spartan:Finger 1
+    400964: Spartan:Finger1
+    400966: Spartan:Finger1 1
+    400968: Spartan:Finger2
+    400970: Spartan:Finger2 1
+    400972: Spartan:Finger3
+    400974: Spartan:Finger3 1
+    400976: Spartan:Finger4
+    400978: Spartan:Finger4 1
+    400980: Spartan:Foot
+    400982: Spartan:Foot 1
+    400984: Spartan:Forearm
+    400986: Spartan:Forearm 1
+    400988: Spartan:Geo
+    400990: Spartan:Hand
+    400992: Spartan:Hand 1
+    400994: Spartan:Hand 2
+    400996: Spartan:Hand 3
+    400998: Spartan:head
+    401000: Spartan:Heel
+    401002: Spartan:Heel 1
+    401004: Spartan:Knee
+    401006: Spartan:Knee 1
+    401008: Spartan:Knuckle
+    401010: Spartan:Knuckle 1
+    401012: Spartan:Knuckle1
+    401014: Spartan:Knuckle1 1
+    401016: Spartan:Knuckle2
+    401018: Spartan:Knuckle2 1
+    401020: Spartan:Knuckle3
+    401022: Spartan:Knuckle3 1
+    401024: Spartan:L_Arm
+    401026: Spartan:L_Leg
+    401028: Spartan:Leg
+    401030: Spartan:Leg 1
+    401032: Spartan:Lower_torso
+    401034: Spartan:Neck
+    401036: Spartan:pCylinder1
+    401038: Spartan:pCylinder1 1
+    401040: Spartan:pCylinder2
+    401042: Spartan:pCylinder2 1
+    401044: Spartan:pCylinder3
+    401046: Spartan:pCylinder3 1
+    401048: Spartan:pCylinder3 2
+    401050: Spartan:pCylinder3 3
+    401052: Spartan:pCylinder3 4
+    401054: Spartan:pCylinder3 5
+    401056: Spartan:pCylinder3 6
+    401058: Spartan:pCylinder3 7
+    401060: Spartan:pCylinder4
+    401062: Spartan:pCylinder4 1
+    401064: Spartan:pCylinder4 2
+    401066: Spartan:pCylinder4 3
+    401068: Spartan:pCylinder4 4
+    401070: Spartan:pCylinder4 5
+    401072: Spartan:pCylinder4 6
+    401074: Spartan:pCylinder4 7
+    401076: Spartan:pCylinder5
+    401078: Spartan:pCylinder5 1
+    401080: Spartan:pCylinder5 2
+    401082: Spartan:pCylinder5 3
+    401084: Spartan:pCylinder5 4
+    401086: Spartan:pCylinder5 5
+    401088: Spartan:pCylinder5 6
+    401090: Spartan:pCylinder5 7
+    401092: Spartan:pSphere10
+    401094: Spartan:pSphere10 1
+    401096: Spartan:pSphere10 2
+    401098: Spartan:pSphere10 3
+    401100: Spartan:pSphere10 4
+    401102: Spartan:pSphere10 5
+    401104: Spartan:pSphere10 6
+    401106: Spartan:pSphere10 7
+    401108: Spartan:pSphere8
+    401110: Spartan:pSphere8 1
+    401112: Spartan:pSphere9
+    401114: Spartan:pSphere9 1
+    401116: Spartan:pSphere9 2
+    401118: Spartan:pSphere9 3
+    401120: Spartan:pSphere9 4
+    401122: Spartan:pSphere9 5
+    401124: Spartan:pSphere9 6
+    401126: Spartan:pSphere9 7
+    401128: Spartan:R_Arm
+    401130: Spartan:R_Leg
+    401132: Spartan:Sholder
+    401134: Spartan:Sholder 1
+    401136: Spartan:Thigh
+    401138: Spartan:Thigh 1
+    401140: Spartan:Thigh_1
+    401142: Spartan:Thigh_1 1
+    401144: Spartan:Thumb_Base
+    401146: Spartan:Thumb_Base 1
+    401148: Spartan:Toes
+    401150: Spartan:Toes 1
+    401152: Spartan:Torso
+    401154: Spartan:Torso1
+    401156: Spartan:Waist
+    401158: Spartan:Waist 1
+    401160: Spike
+    401162: Spike_1
+    401164: Spike_2
+    401166: Thigh
+    401168: Thigh 1
+    401170: Thigh_1
+    401172: Thigh_1 1
+    401174: Thumb_Base
+    401176: Thumb_Base 1
+    401178: Thumb_Base 2
+    401180: Thumb_Base 3
+    401182: Thumb_Base 4
+    401184: Thumb_Base 5
+    401186: Thumb_Base 6
+    401188: Thumb_Base 7
+    401190: Toes
+    401192: Toes 1
+    401194: Tomb
+    401196: //RootNode
+    401198: Tomb_Gate
+    401200: Torso
+    401202: Torso 1
+    401204: Torso 2
+    401206: Torso 3
+    401208: Torso1
+    401210: Torso1 1
+    401212: Torso1 2
+    401214: Torso1 3
+    401216: Waist
+    401218: Waist 1
+    401220: Wolf_Head
+    2100000: lambert1
+    2100002: Game_axe_Skull
+    2100004: Game_axe_Fangs
+    2100006: Game_axe_Leather
+    2100008: Game_axe_Base
+    2100010: Game_axe_Handle
+    2100012: Game_axe_Spike1
+    2100014: Game_axe_Horn
+    2100016: Game_axe_Axe_Head_1
+    2100018: Game_axe_Axe_Head
+    2100020: Game_axe_Rivots
+    2300000: Ankle
+    2300002: Ankle 1
+    2300004: Arc
+    2300006: Arc 1
+    2300008: Armpit
+    2300010: Armpit 1
+    2300012: Armpit 2
+    2300014: Armpit 3
+    2300016: Armpit 4
+    2300018: Armpit 5
+    2300020: Armpit 6
+    2300022: Armpit 7
+    2300024: Belt
+    2300026: Bicep
+    2300028: Bicep 1
+    2300030: Bicep 2
+    2300032: Bicep 3
+    2300034: Bicep 4
+    2300036: Bicep 5
+    2300038: Bicep 6
+    2300040: Bicep 7
+    2300042: Bracer
+    2300044: Bracer 1
+    2300046: Bracer 2
+    2300048: Bracer 3
+    2300050: Bracer 4
+    2300052: Bracer 5
+    2300054: Bracer 6
+    2300056: Bracer 7
+    2300058: Bridge
+    2300060: Cape1
+    2300062: Cape1 1
+    2300064: Cape1 2
+    2300066: Cape1 3
+    2300068: Cape_Pin
+    2300070: Cape_Pin 1
+    2300072: Cape_Pin 2
+    2300074: Cape_Pin 3
+    2300076: Forearm
+    2300078: Forearm 1
+    2300080: Forearm 2
+    2300082: Forearm 3
+    2300084: Forearm 4
+    2300086: Forearm 5
+    2300088: Forearm 6
+    2300090: Forearm 7
+    2300092: Game_axe:Head_1
+    2300094: Game_axe:Head_2
+    2300096: Game_axe:Head_3
+    2300098: Game_axe:Head_4
+    2300100: Game_axe:Hilt
+    2300102: Game_axe:Hilt_1
+    2300104: Game_axe:Hilt_4
+    2300106: Game_axe:Hilt_5
+    2300108: Game_axe:Hilt_6
+    2300110: Game_axe:Leather_wrap
+    2300112: Game_axe:Leather_wrap_1
+    2300114: Game_axe:leather_wrap_10
+    2300116: Game_axe:Leather_wrap_2
+    2300118: Game_axe:Leather_wrap_3
+    2300120: Game_axe:Leather_wrap_4
+    2300122: Game_axe:Leather_wrap_5
+    2300124: Game_axe:Leather_wrap_6
+    2300126: Game_axe:Leather_wrap_7
+    2300128: Game_axe:Leather_wrap_8
+    2300130: Game_axe:Leather_wrap_9
+    2300132: Game_axe:polySurface34
+    2300134: Game_axe:polySurface35
+    2300136: Game_axe:polySurface36
+    2300138: Game_axe:polySurface37
+    2300140: Game_axe:polySurface38
+    2300142: Game_axe:polySurface39
+    2300144: Game_axe:polySurface40
+    2300146: Game_axe:Rivot_14
+    2300148: Game_axe:Rivot_15
+    2300150: Game_axe:Rivot_19
+    2300152: Game_axe:Rivot_20
+    2300154: Game_axe:Rivot_21
+    2300156: Game_axe:Rivot_3
+    2300158: Game_axe:Spike
+    2300160: Game_axe:Spike_1
+    2300162: Game_axe:Spike_2
+    2300164: Game_axe:Wolf_Head
+    2300166: Grave
+    2300168: Grave 1
+    2300170: Grave1
+    2300172: Grave1 1
+    2300174: Hand 10
+    2300176: Hand 11
+    2300178: Hand 12
+    2300180: Hand 13
+    2300182: Hand 14
+    2300184: Hand 15
+    2300186: Hand 8
+    2300188: Hand 9
+    2300190: head
+    2300192: head 1
+    2300194: head 2
+    2300196: head 3
+    2300198: Head_1
+    2300200: Head_2
+    2300202: Head_3
+    2300204: Head_4
+    2300206: Heel
+    2300208: Heel 1
+    2300210: Hilt
+    2300212: Hilt_1
+    2300214: Hilt_4
+    2300216: Hilt_5
+    2300218: Hilt_6
+    2300220: Knee
+    2300222: Knee 1
+    2300224: Knuckle
+    2300226: Knuckle 1
+    2300228: Knuckle 2
+    2300230: Knuckle 3
+    2300232: Knuckle 4
+    2300234: Knuckle 5
+    2300236: Knuckle 6
+    2300238: Knuckle 7
+    2300240: Knuckle1
+    2300242: Knuckle1 1
+    2300244: Knuckle1 2
+    2300246: Knuckle1 3
+    2300248: Knuckle1 4
+    2300250: Knuckle1 5
+    2300252: Knuckle1 6
+    2300254: Knuckle1 7
+    2300256: Knuckle2
+    2300258: Knuckle2 1
+    2300260: Knuckle2 2
+    2300262: Knuckle2 3
+    2300264: Knuckle2 4
+    2300266: Knuckle2 5
+    2300268: Knuckle2 6
+    2300270: Knuckle2 7
+    2300272: Knuckle3
+    2300274: Knuckle3 1
+    2300276: Knuckle3 2
+    2300278: Knuckle3 3
+    2300280: Knuckle3 4
+    2300282: Knuckle3 5
+    2300284: Knuckle3 6
+    2300286: Knuckle3 7
+    2300288: Leather_wrap
+    2300290: Leather_wrap_1
+    2300292: leather_wrap_10
+    2300294: Leather_wrap_2
+    2300296: Leather_wrap_3
+    2300298: Leather_wrap_4
+    2300300: Leather_wrap_5
+    2300302: Leather_wrap_6
+    2300304: Leather_wrap_7
+    2300306: Leather_wrap_8
+    2300308: Leather_wrap_9
+    2300310: Leg
+    2300312: Leg 1
+    2300314: Lower_torso
+    2300316: Lower_torso 1
+    2300318: Lower_torso 2
+    2300320: Lower_torso 3
+    2300322: Main_Terrain
+    2300324: Neck
+    2300326: Neck 1
+    2300328: Neck 2
+    2300330: Neck 3
+    2300332: pCube2
+    2300334: pCube2 1
+    2300336: pCube2 2
+    2300338: pCube3
+    2300340: pCube3 1
+    2300342: pCylinder1
+    2300344: pCylinder1 1
+    2300346: pCylinder1 2
+    2300348: pCylinder1 3
+    2300350: pCylinder1 4
+    2300352: pCylinder1 5
+    2300354: pCylinder1 6
+    2300356: pCylinder1 7
+    2300358: pCylinder2
+    2300360: pCylinder2 1
+    2300362: pCylinder2 2
+    2300364: pCylinder2 3
+    2300366: pCylinder2 4
+    2300368: pCylinder2 5
+    2300370: pCylinder2 6
+    2300372: pCylinder2 7
+    2300374: pCylinder3
+    2300376: pCylinder3 1
+    2300378: pCylinder3 10
+    2300380: pCylinder3 11
+    2300382: pCylinder3 12
+    2300384: pCylinder3 13
+    2300386: pCylinder3 14
+    2300388: pCylinder3 15
+    2300390: pCylinder3 16
+    2300392: pCylinder3 17
+    2300394: pCylinder3 18
+    2300396: pCylinder3 19
+    2300398: pCylinder3 2
+    2300400: pCylinder3 20
+    2300402: pCylinder3 21
+    2300404: pCylinder3 22
+    2300406: pCylinder3 23
+    2300408: pCylinder3 24
+    2300410: pCylinder3 25
+    2300412: pCylinder3 26
+    2300414: pCylinder3 27
+    2300416: pCylinder3 28
+    2300418: pCylinder3 29
+    2300420: pCylinder3 3
+    2300422: pCylinder3 30
+    2300424: pCylinder3 31
+    2300426: pCylinder3 4
+    2300428: pCylinder3 5
+    2300430: pCylinder3 6
+    2300432: pCylinder3 7
+    2300434: pCylinder3 8
+    2300436: pCylinder3 9
+    2300438: pCylinder4
+    2300440: pCylinder4 1
+    2300442: pCylinder4 10
+    2300444: pCylinder4 11
+    2300446: pCylinder4 12
+    2300448: pCylinder4 13
+    2300450: pCylinder4 14
+    2300452: pCylinder4 15
+    2300454: pCylinder4 16
+    2300456: pCylinder4 17
+    2300458: pCylinder4 18
+    2300460: pCylinder4 19
+    2300462: pCylinder4 2
+    2300464: pCylinder4 20
+    2300466: pCylinder4 21
+    2300468: pCylinder4 22
+    2300470: pCylinder4 23
+    2300472: pCylinder4 24
+    2300474: pCylinder4 25
+    2300476: pCylinder4 26
+    2300478: pCylinder4 27
+    2300480: pCylinder4 28
+    2300482: pCylinder4 29
+    2300484: pCylinder4 3
+    2300486: pCylinder4 30
+    2300488: pCylinder4 31
+    2300490: pCylinder4 4
+    2300492: pCylinder4 5
+    2300494: pCylinder4 6
+    2300496: pCylinder4 7
+    2300498: pCylinder4 8
+    2300500: pCylinder4 9
+    2300502: pCylinder5
+    2300504: pCylinder5 1
+    2300506: pCylinder5 10
+    2300508: pCylinder5 11
+    2300510: pCylinder5 12
+    2300512: pCylinder5 13
+    2300514: pCylinder5 14
+    2300516: pCylinder5 15
+    2300518: pCylinder5 16
+    2300520: pCylinder5 17
+    2300522: pCylinder5 18
+    2300524: pCylinder5 19
+    2300526: pCylinder5 2
+    2300528: pCylinder5 20
+    2300530: pCylinder5 21
+    2300532: pCylinder5 22
+    2300534: pCylinder5 23
+    2300536: pCylinder5 24
+    2300538: pCylinder5 25
+    2300540: pCylinder5 26
+    2300542: pCylinder5 27
+    2300544: pCylinder5 28
+    2300546: pCylinder5 29
+    2300548: pCylinder5 3
+    2300550: pCylinder5 30
+    2300552: pCylinder5 31
+    2300554: pCylinder5 4
+    2300556: pCylinder5 5
+    2300558: pCylinder5 6
+    2300560: pCylinder5 7
+    2300562: pCylinder5 8
+    2300564: pCylinder5 9
+    2300566: player_scale
+    2300568: polySurface34
+    2300570: polySurface35
+    2300572: polySurface36
+    2300574: polySurface37
+    2300576: polySurface38
+    2300578: polySurface39
+    2300580: polySurface40
+    2300582: pSphere10
+    2300584: pSphere10 1
+    2300586: pSphere10 10
+    2300588: pSphere10 11
+    2300590: pSphere10 12
+    2300592: pSphere10 13
+    2300594: pSphere10 14
+    2300596: pSphere10 15
+    2300598: pSphere10 16
+    2300600: pSphere10 17
+    2300602: pSphere10 18
+    2300604: pSphere10 19
+    2300606: pSphere10 2
+    2300608: pSphere10 20
+    2300610: pSphere10 21
+    2300612: pSphere10 22
+    2300614: pSphere10 23
+    2300616: pSphere10 24
+    2300618: pSphere10 25
+    2300620: pSphere10 26
+    2300622: pSphere10 27
+    2300624: pSphere10 28
+    2300626: pSphere10 29
+    2300628: pSphere10 3
+    2300630: pSphere10 30
+    2300632: pSphere10 31
+    2300634: pSphere10 4
+    2300636: pSphere10 5
+    2300638: pSphere10 6
+    2300640: pSphere10 7
+    2300642: pSphere10 8
+    2300644: pSphere10 9
+    2300646: pSphere11
+    2300648: pSphere8
+    2300650: pSphere8 1
+    2300652: pSphere8 2
+    2300654: pSphere8 3
+    2300656: pSphere8 4
+    2300658: pSphere8 5
+    2300660: pSphere8 6
+    2300662: pSphere8 7
+    2300664: pSphere9
+    2300666: pSphere9 1
+    2300668: pSphere9 10
+    2300670: pSphere9 11
+    2300672: pSphere9 12
+    2300674: pSphere9 13
+    2300676: pSphere9 14
+    2300678: pSphere9 15
+    2300680: pSphere9 16
+    2300682: pSphere9 17
+    2300684: pSphere9 18
+    2300686: pSphere9 19
+    2300688: pSphere9 2
+    2300690: pSphere9 20
+    2300692: pSphere9 21
+    2300694: pSphere9 22
+    2300696: pSphere9 23
+    2300698: pSphere9 24
+    2300700: pSphere9 25
+    2300702: pSphere9 26
+    2300704: pSphere9 27
+    2300706: pSphere9 28
+    2300708: pSphere9 29
+    2300710: pSphere9 3
+    2300712: pSphere9 30
+    2300714: pSphere9 31
+    2300716: pSphere9 4
+    2300718: pSphere9 5
+    2300720: pSphere9 6
+    2300722: pSphere9 7
+    2300724: pSphere9 8
+    2300726: pSphere9 9
+    2300728: pTorus1
+    2300730: pTorus1 1
+    2300732: pTorus2
+    2300734: pTorus2 1
+    2300736: Rivot_14
+    2300738: Rivot_15
+    2300740: Rivot_19
+    2300742: Rivot_20
+    2300744: Rivot_21
+    2300746: Rivot_3
+    2300748: Sholder
+    2300750: Sholder 1
+    2300752: Sholder 2
+    2300754: Sholder 3
+    2300756: Sholder 4
+    2300758: Sholder 5
+    2300760: Sholder 6
+    2300762: Sholder 7
+    2300764: Spartan:Ankle
+    2300766: Spartan:Ankle 1
+    2300768: Spartan:Arc
+    2300770: Spartan:Arc 1
+    2300772: Spartan:Armpit
+    2300774: Spartan:Armpit 1
+    2300776: Spartan:Belt
+    2300778: Spartan:Bicep
+    2300780: Spartan:Bicep 1
+    2300782: Spartan:Bracer
+    2300784: Spartan:Bracer 1
+    2300786: Spartan:Cape1
+    2300788: Spartan:Cape_Pin
+    2300790: Spartan:Forearm
+    2300792: Spartan:Forearm 1
+    2300794: Spartan:Hand 2
+    2300796: Spartan:Hand 3
+    2300798: Spartan:head
+    2300800: Spartan:Heel
+    2300802: Spartan:Heel 1
+    2300804: Spartan:Knee
+    2300806: Spartan:Knee 1
+    2300808: Spartan:Knuckle
+    2300810: Spartan:Knuckle 1
+    2300812: Spartan:Knuckle1
+    2300814: Spartan:Knuckle1 1
+    2300816: Spartan:Knuckle2
+    2300818: Spartan:Knuckle2 1
+    2300820: Spartan:Knuckle3
+    2300822: Spartan:Knuckle3 1
+    2300824: Spartan:Leg
+    2300826: Spartan:Leg 1
+    2300828: Spartan:Lower_torso
+    2300830: Spartan:Neck
+    2300832: Spartan:pCylinder1
+    2300834: Spartan:pCylinder1 1
+    2300836: Spartan:pCylinder2
+    2300838: Spartan:pCylinder2 1
+    2300840: Spartan:pCylinder3
+    2300842: Spartan:pCylinder3 1
+    2300844: Spartan:pCylinder3 2
+    2300846: Spartan:pCylinder3 3
+    2300848: Spartan:pCylinder3 4
+    2300850: Spartan:pCylinder3 5
+    2300852: Spartan:pCylinder3 6
+    2300854: Spartan:pCylinder3 7
+    2300856: Spartan:pCylinder4
+    2300858: Spartan:pCylinder4 1
+    2300860: Spartan:pCylinder4 2
+    2300862: Spartan:pCylinder4 3
+    2300864: Spartan:pCylinder4 4
+    2300866: Spartan:pCylinder4 5
+    2300868: Spartan:pCylinder4 6
+    2300870: Spartan:pCylinder4 7
+    2300872: Spartan:pCylinder5
+    2300874: Spartan:pCylinder5 1
+    2300876: Spartan:pCylinder5 2
+    2300878: Spartan:pCylinder5 3
+    2300880: Spartan:pCylinder5 4
+    2300882: Spartan:pCylinder5 5
+    2300884: Spartan:pCylinder5 6
+    2300886: Spartan:pCylinder5 7
+    2300888: Spartan:pSphere10
+    2300890: Spartan:pSphere10 1
+    2300892: Spartan:pSphere10 2
+    2300894: Spartan:pSphere10 3
+    2300896: Spartan:pSphere10 4
+    2300898: Spartan:pSphere10 5
+    2300900: Spartan:pSphere10 6
+    2300902: Spartan:pSphere10 7
+    2300904: Spartan:pSphere8
+    2300906: Spartan:pSphere8 1
+    2300908: Spartan:pSphere9
+    2300910: Spartan:pSphere9 1
+    2300912: Spartan:pSphere9 2
+    2300914: Spartan:pSphere9 3
+    2300916: Spartan:pSphere9 4
+    2300918: Spartan:pSphere9 5
+    2300920: Spartan:pSphere9 6
+    2300922: Spartan:pSphere9 7
+    2300924: Spartan:Sholder
+    2300926: Spartan:Sholder 1
+    2300928: Spartan:Thigh
+    2300930: Spartan:Thigh 1
+    2300932: Spartan:Thigh_1
+    2300934: Spartan:Thigh_1 1
+    2300936: Spartan:Thumb_Base
+    2300938: Spartan:Thumb_Base 1
+    2300940: Spartan:Toes
+    2300942: Spartan:Toes 1
+    2300944: Spartan:Torso1
+    2300946: Spartan:Waist 1
+    2300948: Spike
+    2300950: Spike_1
+    2300952: Spike_2
+    2300954: Thigh
+    2300956: Thigh 1
+    2300958: Thigh_1
+    2300960: Thigh_1 1
+    2300962: Thumb_Base
+    2300964: Thumb_Base 1
+    2300966: Thumb_Base 2
+    2300968: Thumb_Base 3
+    2300970: Thumb_Base 4
+    2300972: Thumb_Base 5
+    2300974: Thumb_Base 6
+    2300976: Thumb_Base 7
+    2300978: Toes
+    2300980: Toes 1
+    2300982: Tomb
+    2300984: Torso1
+    2300986: Torso1 1
+    2300988: Torso1 2
+    2300990: Torso1 3
+    2300992: Waist 1
+    2300994: Wolf_Head
+    3300000: Ankle
+    3300002: Ankle 1
+    3300004: Arc
+    3300006: Arc 1
+    3300008: Armpit
+    3300010: Armpit 1
+    3300012: Armpit 2
+    3300014: Armpit 3
+    3300016: Armpit 4
+    3300018: Armpit 5
+    3300020: Armpit 6
+    3300022: Armpit 7
+    3300024: Belt
+    3300026: Bicep
+    3300028: Bicep 1
+    3300030: Bicep 2
+    3300032: Bicep 3
+    3300034: Bicep 4
+    3300036: Bicep 5
+    3300038: Bicep 6
+    3300040: Bicep 7
+    3300042: Bracer
+    3300044: Bracer 1
+    3300046: Bracer 2
+    3300048: Bracer 3
+    3300050: Bracer 4
+    3300052: Bracer 5
+    3300054: Bracer 6
+    3300056: Bracer 7
+    3300058: Bridge
+    3300060: Cape1
+    3300062: Cape1 1
+    3300064: Cape1 2
+    3300066: Cape1 3
+    3300068: Cape_Pin
+    3300070: Cape_Pin 1
+    3300072: Cape_Pin 2
+    3300074: Cape_Pin 3
+    3300076: Forearm
+    3300078: Forearm 1
+    3300080: Forearm 2
+    3300082: Forearm 3
+    3300084: Forearm 4
+    3300086: Forearm 5
+    3300088: Forearm 6
+    3300090: Forearm 7
+    3300092: Game_axe:Head_1
+    3300094: Game_axe:Head_2
+    3300096: Game_axe:Head_3
+    3300098: Game_axe:Head_4
+    3300100: Game_axe:Hilt
+    3300102: Game_axe:Hilt_1
+    3300104: Game_axe:Hilt_4
+    3300106: Game_axe:Hilt_5
+    3300108: Game_axe:Hilt_6
+    3300110: Game_axe:Leather_wrap
+    3300112: Game_axe:Leather_wrap_1
+    3300114: Game_axe:leather_wrap_10
+    3300116: Game_axe:Leather_wrap_2
+    3300118: Game_axe:Leather_wrap_3
+    3300120: Game_axe:Leather_wrap_4
+    3300122: Game_axe:Leather_wrap_5
+    3300124: Game_axe:Leather_wrap_6
+    3300126: Game_axe:Leather_wrap_7
+    3300128: Game_axe:Leather_wrap_8
+    3300130: Game_axe:Leather_wrap_9
+    3300132: Game_axe:polySurface34
+    3300134: Game_axe:polySurface35
+    3300136: Game_axe:polySurface36
+    3300138: Game_axe:polySurface37
+    3300140: Game_axe:polySurface38
+    3300142: Game_axe:polySurface39
+    3300144: Game_axe:polySurface40
+    3300146: Game_axe:Rivot_14
+    3300148: Game_axe:Rivot_15
+    3300150: Game_axe:Rivot_19
+    3300152: Game_axe:Rivot_20
+    3300154: Game_axe:Rivot_21
+    3300156: Game_axe:Rivot_3
+    3300158: Game_axe:Spike
+    3300160: Game_axe:Spike_1
+    3300162: Game_axe:Spike_2
+    3300164: Game_axe:Wolf_Head
+    3300166: Grave
+    3300168: Grave 1
+    3300170: Grave1
+    3300172: Grave1 1
+    3300174: Hand 10
+    3300176: Hand 11
+    3300178: Hand 12
+    3300180: Hand 13
+    3300182: Hand 14
+    3300184: Hand 15
+    3300186: Hand 8
+    3300188: Hand 9
+    3300190: head
+    3300192: head 1
+    3300194: head 2
+    3300196: head 3
+    3300198: Head_1
+    3300200: Head_2
+    3300202: Head_3
+    3300204: Head_4
+    3300206: Heel
+    3300208: Heel 1
+    3300210: Hilt
+    3300212: Hilt_1
+    3300214: Hilt_4
+    3300216: Hilt_5
+    3300218: Hilt_6
+    3300220: Knee
+    3300222: Knee 1
+    3300224: Knuckle
+    3300226: Knuckle 1
+    3300228: Knuckle 2
+    3300230: Knuckle 3
+    3300232: Knuckle 4
+    3300234: Knuckle 5
+    3300236: Knuckle 6
+    3300238: Knuckle 7
+    3300240: Knuckle1
+    3300242: Knuckle1 1
+    3300244: Knuckle1 2
+    3300246: Knuckle1 3
+    3300248: Knuckle1 4
+    3300250: Knuckle1 5
+    3300252: Knuckle1 6
+    3300254: Knuckle1 7
+    3300256: Knuckle2
+    3300258: Knuckle2 1
+    3300260: Knuckle2 2
+    3300262: Knuckle2 3
+    3300264: Knuckle2 4
+    3300266: Knuckle2 5
+    3300268: Knuckle2 6
+    3300270: Knuckle2 7
+    3300272: Knuckle3
+    3300274: Knuckle3 1
+    3300276: Knuckle3 2
+    3300278: Knuckle3 3
+    3300280: Knuckle3 4
+    3300282: Knuckle3 5
+    3300284: Knuckle3 6
+    3300286: Knuckle3 7
+    3300288: Leather_wrap
+    3300290: Leather_wrap_1
+    3300292: leather_wrap_10
+    3300294: Leather_wrap_2
+    3300296: Leather_wrap_3
+    3300298: Leather_wrap_4
+    3300300: Leather_wrap_5
+    3300302: Leather_wrap_6
+    3300304: Leather_wrap_7
+    3300306: Leather_wrap_8
+    3300308: Leather_wrap_9
+    3300310: Leg
+    3300312: Leg 1
+    3300314: Lower_torso
+    3300316: Lower_torso 1
+    3300318: Lower_torso 2
+    3300320: Lower_torso 3
+    3300322: Main_Terrain
+    3300324: Neck
+    3300326: Neck 1
+    3300328: Neck 2
+    3300330: Neck 3
+    3300332: pCube2
+    3300334: pCube2 1
+    3300336: pCube2 2
+    3300338: pCube3
+    3300340: pCube3 1
+    3300342: pCylinder1
+    3300344: pCylinder1 1
+    3300346: pCylinder1 2
+    3300348: pCylinder1 3
+    3300350: pCylinder1 4
+    3300352: pCylinder1 5
+    3300354: pCylinder1 6
+    3300356: pCylinder1 7
+    3300358: pCylinder2
+    3300360: pCylinder2 1
+    3300362: pCylinder2 2
+    3300364: pCylinder2 3
+    3300366: pCylinder2 4
+    3300368: pCylinder2 5
+    3300370: pCylinder2 6
+    3300372: pCylinder2 7
+    3300374: pCylinder3
+    3300376: pCylinder3 1
+    3300378: pCylinder3 10
+    3300380: pCylinder3 11
+    3300382: pCylinder3 12
+    3300384: pCylinder3 13
+    3300386: pCylinder3 14
+    3300388: pCylinder3 15
+    3300390: pCylinder3 16
+    3300392: pCylinder3 17
+    3300394: pCylinder3 18
+    3300396: pCylinder3 19
+    3300398: pCylinder3 2
+    3300400: pCylinder3 20
+    3300402: pCylinder3 21
+    3300404: pCylinder3 22
+    3300406: pCylinder3 23
+    3300408: pCylinder3 24
+    3300410: pCylinder3 25
+    3300412: pCylinder3 26
+    3300414: pCylinder3 27
+    3300416: pCylinder3 28
+    3300418: pCylinder3 29
+    3300420: pCylinder3 3
+    3300422: pCylinder3 30
+    3300424: pCylinder3 31
+    3300426: pCylinder3 4
+    3300428: pCylinder3 5
+    3300430: pCylinder3 6
+    3300432: pCylinder3 7
+    3300434: pCylinder3 8
+    3300436: pCylinder3 9
+    3300438: pCylinder4
+    3300440: pCylinder4 1
+    3300442: pCylinder4 10
+    3300444: pCylinder4 11
+    3300446: pCylinder4 12
+    3300448: pCylinder4 13
+    3300450: pCylinder4 14
+    3300452: pCylinder4 15
+    3300454: pCylinder4 16
+    3300456: pCylinder4 17
+    3300458: pCylinder4 18
+    3300460: pCylinder4 19
+    3300462: pCylinder4 2
+    3300464: pCylinder4 20
+    3300466: pCylinder4 21
+    3300468: pCylinder4 22
+    3300470: pCylinder4 23
+    3300472: pCylinder4 24
+    3300474: pCylinder4 25
+    3300476: pCylinder4 26
+    3300478: pCylinder4 27
+    3300480: pCylinder4 28
+    3300482: pCylinder4 29
+    3300484: pCylinder4 3
+    3300486: pCylinder4 30
+    3300488: pCylinder4 31
+    3300490: pCylinder4 4
+    3300492: pCylinder4 5
+    3300494: pCylinder4 6
+    3300496: pCylinder4 7
+    3300498: pCylinder4 8
+    3300500: pCylinder4 9
+    3300502: pCylinder5
+    3300504: pCylinder5 1
+    3300506: pCylinder5 10
+    3300508: pCylinder5 11
+    3300510: pCylinder5 12
+    3300512: pCylinder5 13
+    3300514: pCylinder5 14
+    3300516: pCylinder5 15
+    3300518: pCylinder5 16
+    3300520: pCylinder5 17
+    3300522: pCylinder5 18
+    3300524: pCylinder5 19
+    3300526: pCylinder5 2
+    3300528: pCylinder5 20
+    3300530: pCylinder5 21
+    3300532: pCylinder5 22
+    3300534: pCylinder5 23
+    3300536: pCylinder5 24
+    3300538: pCylinder5 25
+    3300540: pCylinder5 26
+    3300542: pCylinder5 27
+    3300544: pCylinder5 28
+    3300546: pCylinder5 29
+    3300548: pCylinder5 3
+    3300550: pCylinder5 30
+    3300552: pCylinder5 31
+    3300554: pCylinder5 4
+    3300556: pCylinder5 5
+    3300558: pCylinder5 6
+    3300560: pCylinder5 7
+    3300562: pCylinder5 8
+    3300564: pCylinder5 9
+    3300566: player_scale
+    3300568: polySurface34
+    3300570: polySurface35
+    3300572: polySurface36
+    3300574: polySurface37
+    3300576: polySurface38
+    3300578: polySurface39
+    3300580: polySurface40
+    3300582: pSphere10
+    3300584: pSphere10 1
+    3300586: pSphere10 10
+    3300588: pSphere10 11
+    3300590: pSphere10 12
+    3300592: pSphere10 13
+    3300594: pSphere10 14
+    3300596: pSphere10 15
+    3300598: pSphere10 16
+    3300600: pSphere10 17
+    3300602: pSphere10 18
+    3300604: pSphere10 19
+    3300606: pSphere10 2
+    3300608: pSphere10 20
+    3300610: pSphere10 21
+    3300612: pSphere10 22
+    3300614: pSphere10 23
+    3300616: pSphere10 24
+    3300618: pSphere10 25
+    3300620: pSphere10 26
+    3300622: pSphere10 27
+    3300624: pSphere10 28
+    3300626: pSphere10 29
+    3300628: pSphere10 3
+    3300630: pSphere10 30
+    3300632: pSphere10 31
+    3300634: pSphere10 4
+    3300636: pSphere10 5
+    3300638: pSphere10 6
+    3300640: pSphere10 7
+    3300642: pSphere10 8
+    3300644: pSphere10 9
+    3300646: pSphere11
+    3300648: pSphere8
+    3300650: pSphere8 1
+    3300652: pSphere8 2
+    3300654: pSphere8 3
+    3300656: pSphere8 4
+    3300658: pSphere8 5
+    3300660: pSphere8 6
+    3300662: pSphere8 7
+    3300664: pSphere9
+    3300666: pSphere9 1
+    3300668: pSphere9 10
+    3300670: pSphere9 11
+    3300672: pSphere9 12
+    3300674: pSphere9 13
+    3300676: pSphere9 14
+    3300678: pSphere9 15
+    3300680: pSphere9 16
+    3300682: pSphere9 17
+    3300684: pSphere9 18
+    3300686: pSphere9 19
+    3300688: pSphere9 2
+    3300690: pSphere9 20
+    3300692: pSphere9 21
+    3300694: pSphere9 22
+    3300696: pSphere9 23
+    3300698: pSphere9 24
+    3300700: pSphere9 25
+    3300702: pSphere9 26
+    3300704: pSphere9 27
+    3300706: pSphere9 28
+    3300708: pSphere9 29
+    3300710: pSphere9 3
+    3300712: pSphere9 30
+    3300714: pSphere9 31
+    3300716: pSphere9 4
+    3300718: pSphere9 5
+    3300720: pSphere9 6
+    3300722: pSphere9 7
+    3300724: pSphere9 8
+    3300726: pSphere9 9
+    3300728: pTorus1
+    3300730: pTorus1 1
+    3300732: pTorus2
+    3300734: pTorus2 1
+    3300736: Rivot_14
+    3300738: Rivot_15
+    3300740: Rivot_19
+    3300742: Rivot_20
+    3300744: Rivot_21
+    3300746: Rivot_3
+    3300748: Sholder
+    3300750: Sholder 1
+    3300752: Sholder 2
+    3300754: Sholder 3
+    3300756: Sholder 4
+    3300758: Sholder 5
+    3300760: Sholder 6
+    3300762: Sholder 7
+    3300764: Spartan:Ankle
+    3300766: Spartan:Ankle 1
+    3300768: Spartan:Arc
+    3300770: Spartan:Arc 1
+    3300772: Spartan:Armpit
+    3300774: Spartan:Armpit 1
+    3300776: Spartan:Belt
+    3300778: Spartan:Bicep
+    3300780: Spartan:Bicep 1
+    3300782: Spartan:Bracer
+    3300784: Spartan:Bracer 1
+    3300786: Spartan:Cape1
+    3300788: Spartan:Cape_Pin
+    3300790: Spartan:Forearm
+    3300792: Spartan:Forearm 1
+    3300794: Spartan:Hand 2
+    3300796: Spartan:Hand 3
+    3300798: Spartan:head
+    3300800: Spartan:Heel
+    3300802: Spartan:Heel 1
+    3300804: Spartan:Knee
+    3300806: Spartan:Knee 1
+    3300808: Spartan:Knuckle
+    3300810: Spartan:Knuckle 1
+    3300812: Spartan:Knuckle1
+    3300814: Spartan:Knuckle1 1
+    3300816: Spartan:Knuckle2
+    3300818: Spartan:Knuckle2 1
+    3300820: Spartan:Knuckle3
+    3300822: Spartan:Knuckle3 1
+    3300824: Spartan:Leg
+    3300826: Spartan:Leg 1
+    3300828: Spartan:Lower_torso
+    3300830: Spartan:Neck
+    3300832: Spartan:pCylinder1
+    3300834: Spartan:pCylinder1 1
+    3300836: Spartan:pCylinder2
+    3300838: Spartan:pCylinder2 1
+    3300840: Spartan:pCylinder3
+    3300842: Spartan:pCylinder3 1
+    3300844: Spartan:pCylinder3 2
+    3300846: Spartan:pCylinder3 3
+    3300848: Spartan:pCylinder3 4
+    3300850: Spartan:pCylinder3 5
+    3300852: Spartan:pCylinder3 6
+    3300854: Spartan:pCylinder3 7
+    3300856: Spartan:pCylinder4
+    3300858: Spartan:pCylinder4 1
+    3300860: Spartan:pCylinder4 2
+    3300862: Spartan:pCylinder4 3
+    3300864: Spartan:pCylinder4 4
+    3300866: Spartan:pCylinder4 5
+    3300868: Spartan:pCylinder4 6
+    3300870: Spartan:pCylinder4 7
+    3300872: Spartan:pCylinder5
+    3300874: Spartan:pCylinder5 1
+    3300876: Spartan:pCylinder5 2
+    3300878: Spartan:pCylinder5 3
+    3300880: Spartan:pCylinder5 4
+    3300882: Spartan:pCylinder5 5
+    3300884: Spartan:pCylinder5 6
+    3300886: Spartan:pCylinder5 7
+    3300888: Spartan:pSphere10
+    3300890: Spartan:pSphere10 1
+    3300892: Spartan:pSphere10 2
+    3300894: Spartan:pSphere10 3
+    3300896: Spartan:pSphere10 4
+    3300898: Spartan:pSphere10 5
+    3300900: Spartan:pSphere10 6
+    3300902: Spartan:pSphere10 7
+    3300904: Spartan:pSphere8
+    3300906: Spartan:pSphere8 1
+    3300908: Spartan:pSphere9
+    3300910: Spartan:pSphere9 1
+    3300912: Spartan:pSphere9 2
+    3300914: Spartan:pSphere9 3
+    3300916: Spartan:pSphere9 4
+    3300918: Spartan:pSphere9 5
+    3300920: Spartan:pSphere9 6
+    3300922: Spartan:pSphere9 7
+    3300924: Spartan:Sholder
+    3300926: Spartan:Sholder 1
+    3300928: Spartan:Thigh
+    3300930: Spartan:Thigh 1
+    3300932: Spartan:Thigh_1
+    3300934: Spartan:Thigh_1 1
+    3300936: Spartan:Thumb_Base
+    3300938: Spartan:Thumb_Base 1
+    3300940: Spartan:Toes
+    3300942: Spartan:Toes 1
+    3300944: Spartan:Torso1
+    3300946: Spartan:Waist 1
+    3300948: Spike
+    3300950: Spike_1
+    3300952: Spike_2
+    3300954: Thigh
+    3300956: Thigh 1
+    3300958: Thigh_1
+    3300960: Thigh_1 1
+    3300962: Thumb_Base
+    3300964: Thumb_Base 1
+    3300966: Thumb_Base 2
+    3300968: Thumb_Base 3
+    3300970: Thumb_Base 4
+    3300972: Thumb_Base 5
+    3300974: Thumb_Base 6
+    3300976: Thumb_Base 7
+    3300978: Toes
+    3300980: Toes 1
+    3300982: Tomb
+    3300984: Torso1
+    3300986: Torso1 1
+    3300988: Torso1 2
+    3300990: Torso1 3
+    3300992: Waist 1
+    3300994: Wolf_Head
+    4300000: Main_Terrain
+    4300002: Bridge
+    4300004: Sholder
+    4300006: Bracer
+    4300008: Forearm
+    4300010: Bicep
+    4300012: Armpit
+    4300014: Hand
+    4300016: Thumb_Base
+    4300018: Knuckle
+    4300020: Knuckle1
+    4300022: Knuckle2
+    4300024: Knuckle3
+    4300026: pCylinder2
+    4300028: pSphere8
+    4300030: pCylinder1
+    4300032: pCylinder3
+    4300034: pSphere9
+    4300036: pCylinder4
+    4300038: pSphere10
+    4300040: pCylinder5
+    4300042: pCylinder3
+    4300044: pSphere9
+    4300046: pCylinder4
+    4300048: pSphere10
+    4300050: pCylinder5
+    4300052: pCylinder3
+    4300054: pSphere9
+    4300056: pCylinder4
+    4300058: pSphere10
+    4300060: pCylinder5
+    4300062: pCylinder3
+    4300064: pSphere9
+    4300066: pCylinder4
+    4300068: pSphere10
+    4300070: pCylinder5
+    4300072: Sholder
+    4300074: Bracer
+    4300076: Forearm
+    4300078: Bicep
+    4300080: Armpit
+    4300082: Hand
+    4300084: Thumb_Base
+    4300086: Knuckle
+    4300088: Knuckle1
+    4300090: Knuckle2
+    4300092: Knuckle3
+    4300094: pCylinder2
+    4300096: pSphere8
+    4300098: pCylinder1
+    4300100: pCylinder3
+    4300102: pSphere9
+    4300104: pCylinder4
+    4300106: pSphere10
+    4300108: pCylinder5
+    4300110: pCylinder3
+    4300112: pSphere9
+    4300114: pCylinder4
+    4300116: pSphere10
+    4300118: pCylinder5
+    4300120: pCylinder3
+    4300122: pSphere9
+    4300124: pCylinder4
+    4300126: pSphere10
+    4300128: pCylinder5
+    4300130: pCylinder3
+    4300132: pSphere9
+    4300134: pCylinder4
+    4300136: pSphere10
+    4300138: pCylinder5
+    4300140: Torso1
+    4300142: Lower_torso
+    4300144: Cape_Pin
+    4300146: Cape1
+    4300148: Neck
+    4300150: head
+    4300152: pCube2
+    4300154: Sholder
+    4300156: Bracer
+    4300158: Forearm
+    4300160: Bicep
+    4300162: Armpit
+    4300164: Hand
+    4300166: Thumb_Base
+    4300168: Knuckle
+    4300170: Knuckle1
+    4300172: Knuckle2
+    4300174: Knuckle3
+    4300176: pCylinder2
+    4300178: pSphere8
+    4300180: pCylinder1
+    4300182: pCylinder3
+    4300184: pSphere9
+    4300186: pCylinder4
+    4300188: pSphere10
+    4300190: pCylinder5
+    4300192: pCylinder3
+    4300194: pSphere9
+    4300196: pCylinder4
+    4300198: pSphere10
+    4300200: pCylinder5
+    4300202: pCylinder3
+    4300204: pSphere9
+    4300206: pCylinder4
+    4300208: pSphere10
+    4300210: pCylinder5
+    4300212: pCylinder3
+    4300214: pSphere9
+    4300216: pCylinder4
+    4300218: pSphere10
+    4300220: pCylinder5
+    4300222: Sholder
+    4300224: Bracer
+    4300226: Forearm
+    4300228: Bicep
+    4300230: Armpit
+    4300232: Hand
+    4300234: Thumb_Base
+    4300236: Knuckle
+    4300238: Knuckle1
+    4300240: Knuckle2
+    4300242: Knuckle3
+    4300244: pCylinder2
+    4300246: pSphere8
+    4300248: pCylinder1
+    4300250: pCylinder3
+    4300252: pSphere9
+    4300254: pCylinder4
+    4300256: pSphere10
+    4300258: pCylinder5
+    4300260: pCylinder3
+    4300262: pSphere9
+    4300264: pCylinder4
+    4300266: pSphere10
+    4300268: pCylinder5
+    4300270: pCylinder3
+    4300272: pSphere9
+    4300274: pCylinder4
+    4300276: pSphere10
+    4300278: pCylinder5
+    4300280: pCylinder3
+    4300282: pSphere9
+    4300284: pCylinder4
+    4300286: pSphere10
+    4300288: pCylinder5
+    4300290: Torso1
+    4300292: Lower_torso
+    4300294: Cape_Pin
+    4300296: Cape1
+    4300298: Neck
+    4300300: head
+    4300302: pCube2
+    4300304: player_scale
+    4300306: Sholder
+    4300308: Bracer
+    4300310: Forearm
+    4300312: Bicep
+    4300314: Armpit
+    4300316: Hand
+    4300318: Thumb_Base
+    4300320: Knuckle
+    4300322: Knuckle1
+    4300324: Knuckle2
+    4300326: Knuckle3
+    4300328: pCylinder2
+    4300330: pSphere8
+    4300332: pCylinder1
+    4300334: pCylinder3
+    4300336: pSphere9
+    4300338: pCylinder4
+    4300340: pSphere10
+    4300342: pCylinder5
+    4300344: pCylinder3
+    4300346: pSphere9
+    4300348: pCylinder4
+    4300350: pSphere10
+    4300352: pCylinder5
+    4300354: pCylinder3
+    4300356: pSphere9
+    4300358: pCylinder4
+    4300360: pSphere10
+    4300362: pCylinder5
+    4300364: pCylinder3
+    4300366: pSphere9
+    4300368: pCylinder4
+    4300370: pSphere10
+    4300372: pCylinder5
+    4300374: Sholder
+    4300376: Bracer
+    4300378: Forearm
+    4300380: Bicep
+    4300382: Armpit
+    4300384: Hand
+    4300386: Thumb_Base
+    4300388: Knuckle
+    4300390: Knuckle1
+    4300392: Knuckle2
+    4300394: Knuckle3
+    4300396: pCylinder2
+    4300398: pSphere8
+    4300400: pCylinder1
+    4300402: pCylinder3
+    4300404: pSphere9
+    4300406: pCylinder4
+    4300408: pSphere10
+    4300410: pCylinder5
+    4300412: pCylinder3
+    4300414: pSphere9
+    4300416: pCylinder4
+    4300418: pSphere10
+    4300420: pCylinder5
+    4300422: pCylinder3
+    4300424: pSphere9
+    4300426: pCylinder4
+    4300428: pSphere10
+    4300430: pCylinder5
+    4300432: pCylinder3
+    4300434: pSphere9
+    4300436: pCylinder4
+    4300438: pSphere10
+    4300440: pCylinder5
+    4300442: Torso1
+    4300444: Lower_torso
+    4300446: Cape_Pin
+    4300448: Cape1
+    4300450: Neck
+    4300452: head
+    4300454: Belt
+    4300456: Waist
+    4300458: Thigh
+    4300460: Thigh_1
+    4300462: Knee
+    4300464: Leg
+    4300466: Ankle
+    4300468: Heel
+    4300470: Toes
+    4300472: Arc
+    4300474: Thigh
+    4300476: Thigh_1
+    4300478: Knee
+    4300480: Leg
+    4300482: Ankle
+    4300484: Heel
+    4300486: Toes
+    4300488: Arc
+    4300490: Wolf_Head
+    4300492: polySurface34
+    4300494: polySurface35
+    4300496: polySurface36
+    4300498: polySurface37
+    4300500: polySurface38
+    4300502: polySurface39
+    4300504: polySurface40
+    4300506: Leather_wrap
+    4300508: Leather_wrap_3
+    4300510: Leather_wrap_2
+    4300512: Leather_wrap_1
+    4300514: Leather_wrap_4
+    4300516: Leather_wrap_6
+    4300518: Leather_wrap_5
+    4300520: Leather_wrap_7
+    4300522: leather_wrap_10
+    4300524: Leather_wrap_9
+    4300526: Leather_wrap_8
+    4300528: Hilt
+    4300530: Hilt_4
+    4300532: Hilt_5
+    4300534: Hilt_6
+    4300536: Hilt_1
+    4300538: Spike_2
+    4300540: Spike_1
+    4300542: Spike
+    4300544: Head_3
+    4300546: Head_4
+    4300548: Head_2
+    4300550: Head_1
+    4300552: Rivot_15
+    4300554: Rivot_14
+    4300556: Rivot_21
+    4300558: Rivot_20
+    4300560: Rivot_3
+    4300562: Rivot_19
+    4300564: Tomb
+    4300566: pTorus2
+    4300568: pTorus1
+    4300570: pCube3
+    4300572: Spartan:Sholder
+    4300574: Spartan:Bracer
+    4300576: Spartan:Forearm
+    4300578: Spartan:Bicep
+    4300580: Spartan:Armpit
+    4300582: Spartan:Hand
+    4300584: Spartan:Thumb_Base
+    4300586: Spartan:Knuckle
+    4300588: Spartan:Knuckle1
+    4300590: Spartan:Knuckle2
+    4300592: Spartan:Knuckle3
+    4300594: Spartan:pCylinder2
+    4300596: Spartan:pSphere8
+    4300598: Spartan:pCylinder1
+    4300600: Spartan:pCylinder3
+    4300602: Spartan:pSphere9
+    4300604: Spartan:pCylinder4
+    4300606: Spartan:pSphere10
+    4300608: Spartan:pCylinder5
+    4300610: Spartan:pCylinder3
+    4300612: Spartan:pSphere9
+    4300614: Spartan:pCylinder4
+    4300616: Spartan:pSphere10
+    4300618: Spartan:pCylinder5
+    4300620: Spartan:pCylinder3
+    4300622: Spartan:pSphere9
+    4300624: Spartan:pCylinder4
+    4300626: Spartan:pSphere10
+    4300628: Spartan:pCylinder5
+    4300630: Spartan:pCylinder3
+    4300632: Spartan:pSphere9
+    4300634: Spartan:pCylinder4
+    4300636: Spartan:pSphere10
+    4300638: Spartan:pCylinder5
+    4300640: Spartan:Sholder
+    4300642: Spartan:Bracer
+    4300644: Spartan:Forearm
+    4300646: Spartan:Bicep
+    4300648: Spartan:Armpit
+    4300650: Spartan:Hand
+    4300652: Spartan:Thumb_Base
+    4300654: Spartan:Knuckle
+    4300656: Spartan:Knuckle1
+    4300658: Spartan:Knuckle2
+    4300660: Spartan:Knuckle3
+    4300662: Spartan:pCylinder2
+    4300664: Spartan:pSphere8
+    4300666: Spartan:pCylinder1
+    4300668: Spartan:pCylinder3
+    4300670: Spartan:pSphere9
+    4300672: Spartan:pCylinder4
+    4300674: Spartan:pSphere10
+    4300676: Spartan:pCylinder5
+    4300678: Spartan:pCylinder3
+    4300680: Spartan:pSphere9
+    4300682: Spartan:pCylinder4
+    4300684: Spartan:pSphere10
+    4300686: Spartan:pCylinder5
+    4300688: Spartan:pCylinder3
+    4300690: Spartan:pSphere9
+    4300692: Spartan:pCylinder4
+    4300694: Spartan:pSphere10
+    4300696: Spartan:pCylinder5
+    4300698: Spartan:pCylinder3
+    4300700: Spartan:pSphere9
+    4300702: Spartan:pCylinder4
+    4300704: Spartan:pSphere10
+    4300706: Spartan:pCylinder5
+    4300708: Spartan:Torso1
+    4300710: Spartan:Lower_torso
+    4300712: Spartan:Cape_Pin
+    4300714: Spartan:Cape1
+    4300716: Spartan:Neck
+    4300718: Spartan:head
+    4300720: Spartan:Belt
+    4300722: Spartan:Waist
+    4300724: Spartan:Thigh
+    4300726: Spartan:Thigh_1
+    4300728: Spartan:Knee
+    4300730: Spartan:Leg
+    4300732: Spartan:Ankle
+    4300734: Spartan:Heel
+    4300736: Spartan:Toes
+    4300738: Spartan:Arc
+    4300740: Spartan:Thigh
+    4300742: Spartan:Thigh_1
+    4300744: Spartan:Knee
+    4300746: Spartan:Leg
+    4300748: Spartan:Ankle
+    4300750: Spartan:Heel
+    4300752: Spartan:Toes
+    4300754: Spartan:Arc
+    4300756: Game_axe:Wolf_Head
+    4300758: Game_axe:polySurface34
+    4300760: Game_axe:polySurface35
+    4300762: Game_axe:polySurface36
+    4300764: Game_axe:polySurface37
+    4300766: Game_axe:polySurface38
+    4300768: Game_axe:polySurface39
+    4300770: Game_axe:polySurface40
+    4300772: Game_axe:Leather_wrap
+    4300774: Game_axe:Leather_wrap_3
+    4300776: Game_axe:Leather_wrap_2
+    4300778: Game_axe:Leather_wrap_1
+    4300780: Game_axe:Leather_wrap_4
+    4300782: Game_axe:Leather_wrap_6
+    4300784: Game_axe:Leather_wrap_5
+    4300786: Game_axe:Leather_wrap_7
+    4300788: Game_axe:leather_wrap_10
+    4300790: Game_axe:Leather_wrap_9
+    4300792: Game_axe:Leather_wrap_8
+    4300794: Game_axe:Hilt
+    4300796: Game_axe:Hilt_4
+    4300798: Game_axe:Hilt_5
+    4300800: Game_axe:Hilt_6
+    4300802: Game_axe:Hilt_1
+    4300804: Game_axe:Spike_2
+    4300806: Game_axe:Spike_1
+    4300808: Game_axe:Spike
+    4300810: Game_axe:Head_3
+    4300812: Game_axe:Head_4
+    4300814: Game_axe:Head_2
+    4300816: Game_axe:Head_1
+    4300818: Game_axe:Rivot_15
+    4300820: Game_axe:Rivot_14
+    4300822: Game_axe:Rivot_21
+    4300824: Game_axe:Rivot_20
+    4300826: Game_axe:Rivot_3
+    4300828: Game_axe:Rivot_19
+    4300830: Sholder
+    4300832: Bracer
+    4300834: Forearm
+    4300836: Bicep
+    4300838: Armpit
+    4300840: Hand
+    4300842: Thumb_Base
+    4300844: Knuckle
+    4300846: Knuckle1
+    4300848: Knuckle2
+    4300850: Knuckle3
+    4300852: pCylinder2
+    4300854: pSphere8
+    4300856: pCylinder1
+    4300858: pCylinder3
+    4300860: pSphere9
+    4300862: pCylinder4
+    4300864: pSphere10
+    4300866: pCylinder5
+    4300868: pCylinder3
+    4300870: pSphere9
+    4300872: pCylinder4
+    4300874: pSphere10
+    4300876: pCylinder5
+    4300878: pCylinder3
+    4300880: pSphere9
+    4300882: pCylinder4
+    4300884: pSphere10
+    4300886: pCylinder5
+    4300888: pCylinder3
+    4300890: pSphere9
+    4300892: pCylinder4
+    4300894: pSphere10
+    4300896: pCylinder5
+    4300898: Sholder
+    4300900: Bracer
+    4300902: Forearm
+    4300904: Bicep
+    4300906: Armpit
+    4300908: Hand
+    4300910: Thumb_Base
+    4300912: Knuckle
+    4300914: Knuckle1
+    4300916: Knuckle2
+    4300918: Knuckle3
+    4300920: pCylinder2
+    4300922: pSphere8
+    4300924: pCylinder1
+    4300926: pCylinder3
+    4300928: pSphere9
+    4300930: pCylinder4
+    4300932: pSphere10
+    4300934: pCylinder5
+    4300936: pCylinder3
+    4300938: pSphere9
+    4300940: pCylinder4
+    4300942: pSphere10
+    4300944: pCylinder5
+    4300946: pCylinder3
+    4300948: pSphere9
+    4300950: pCylinder4
+    4300952: pSphere10
+    4300954: pCylinder5
+    4300956: pCylinder3
+    4300958: pSphere9
+    4300960: pCylinder4
+    4300962: pSphere10
+    4300964: pCylinder5
+    4300966: Torso1
+    4300968: Lower_torso
+    4300970: Cape_Pin
+    4300972: Cape1
+    4300974: Neck
+    4300976: head
+    4300978: pCube2
+    4300980: pSphere11
+    4300982: pTorus2
+    4300984: pTorus1
+    4300986: pCube3
+    4300988: Grave
+    4300990: Grave1
+    4300992: Grave
+    4300994: Grave1
+    6400000: Ankle
+    6400002: Ankle 1
+    6400004: Arc
+    6400006: Arc 1
+    6400008: Armpit
+    6400010: Armpit 1
+    6400012: Armpit 2
+    6400014: Armpit 3
+    6400016: Armpit 4
+    6400018: Armpit 5
+    6400020: Armpit 6
+    6400022: Armpit 7
+    6400024: Belt
+    6400026: Bicep
+    6400028: Bicep 1
+    6400030: Bicep 2
+    6400032: Bicep 3
+    6400034: Bicep 4
+    6400036: Bicep 5
+    6400038: Bicep 6
+    6400040: Bicep 7
+    6400042: Bracer
+    6400044: Bracer 1
+    6400046: Bracer 2
+    6400048: Bracer 3
+    6400050: Bracer 4
+    6400052: Bracer 5
+    6400054: Bracer 6
+    6400056: Bracer 7
+    6400058: Bridge
+    6400060: Cape1
+    6400062: Cape1 1
+    6400064: Cape1 2
+    6400066: Cape1 3
+    6400068: Cape_Pin
+    6400070: Cape_Pin 1
+    6400072: Cape_Pin 2
+    6400074: Cape_Pin 3
+    6400076: Forearm
+    6400078: Forearm 1
+    6400080: Forearm 2
+    6400082: Forearm 3
+    6400084: Forearm 4
+    6400086: Forearm 5
+    6400088: Forearm 6
+    6400090: Forearm 7
+    6400092: Game_axe:Head_1
+    6400094: Game_axe:Head_2
+    6400096: Game_axe:Head_3
+    6400098: Game_axe:Head_4
+    6400100: Game_axe:Hilt
+    6400102: Game_axe:Hilt_1
+    6400104: Game_axe:Hilt_4
+    6400106: Game_axe:Hilt_5
+    6400108: Game_axe:Hilt_6
+    6400110: Game_axe:Leather_wrap
+    6400112: Game_axe:Leather_wrap_1
+    6400114: Game_axe:leather_wrap_10
+    6400116: Game_axe:Leather_wrap_2
+    6400118: Game_axe:Leather_wrap_3
+    6400120: Game_axe:Leather_wrap_4
+    6400122: Game_axe:Leather_wrap_5
+    6400124: Game_axe:Leather_wrap_6
+    6400126: Game_axe:Leather_wrap_7
+    6400128: Game_axe:Leather_wrap_8
+    6400130: Game_axe:Leather_wrap_9
+    6400132: Game_axe:polySurface34
+    6400134: Game_axe:polySurface35
+    6400136: Game_axe:polySurface36
+    6400138: Game_axe:polySurface37
+    6400140: Game_axe:polySurface38
+    6400142: Game_axe:polySurface39
+    6400144: Game_axe:polySurface40
+    6400146: Game_axe:Rivot_14
+    6400148: Game_axe:Rivot_15
+    6400150: Game_axe:Rivot_19
+    6400152: Game_axe:Rivot_20
+    6400154: Game_axe:Rivot_21
+    6400156: Game_axe:Rivot_3
+    6400158: Game_axe:Spike
+    6400160: Game_axe:Spike_1
+    6400162: Game_axe:Spike_2
+    6400164: Game_axe:Wolf_Head
+    6400166: Grave
+    6400168: Grave 1
+    6400170: Grave1
+    6400172: Grave1 1
+    6400174: Hand 10
+    6400176: Hand 11
+    6400178: Hand 12
+    6400180: Hand 13
+    6400182: Hand 14
+    6400184: Hand 15
+    6400186: Hand 8
+    6400188: Hand 9
+    6400190: head
+    6400192: head 1
+    6400194: head 2
+    6400196: head 3
+    6400198: Head_1
+    6400200: Head_2
+    6400202: Head_3
+    6400204: Head_4
+    6400206: Heel
+    6400208: Heel 1
+    6400210: Hilt
+    6400212: Hilt_1
+    6400214: Hilt_4
+    6400216: Hilt_5
+    6400218: Hilt_6
+    6400220: Knee
+    6400222: Knee 1
+    6400224: Knuckle
+    6400226: Knuckle 1
+    6400228: Knuckle 2
+    6400230: Knuckle 3
+    6400232: Knuckle 4
+    6400234: Knuckle 5
+    6400236: Knuckle 6
+    6400238: Knuckle 7
+    6400240: Knuckle1
+    6400242: Knuckle1 1
+    6400244: Knuckle1 2
+    6400246: Knuckle1 3
+    6400248: Knuckle1 4
+    6400250: Knuckle1 5
+    6400252: Knuckle1 6
+    6400254: Knuckle1 7
+    6400256: Knuckle2
+    6400258: Knuckle2 1
+    6400260: Knuckle2 2
+    6400262: Knuckle2 3
+    6400264: Knuckle2 4
+    6400266: Knuckle2 5
+    6400268: Knuckle2 6
+    6400270: Knuckle2 7
+    6400272: Knuckle3
+    6400274: Knuckle3 1
+    6400276: Knuckle3 2
+    6400278: Knuckle3 3
+    6400280: Knuckle3 4
+    6400282: Knuckle3 5
+    6400284: Knuckle3 6
+    6400286: Knuckle3 7
+    6400288: Leather_wrap
+    6400290: Leather_wrap_1
+    6400292: leather_wrap_10
+    6400294: Leather_wrap_2
+    6400296: Leather_wrap_3
+    6400298: Leather_wrap_4
+    6400300: Leather_wrap_5
+    6400302: Leather_wrap_6
+    6400304: Leather_wrap_7
+    6400306: Leather_wrap_8
+    6400308: Leather_wrap_9
+    6400310: Leg
+    6400312: Leg 1
+    6400314: Lower_torso
+    6400316: Lower_torso 1
+    6400318: Lower_torso 2
+    6400320: Lower_torso 3
+    6400322: Main_Terrain
+    6400324: Neck
+    6400326: Neck 1
+    6400328: Neck 2
+    6400330: Neck 3
+    6400332: pCube2
+    6400334: pCube2 1
+    6400336: pCube2 2
+    6400338: pCube3
+    6400340: pCube3 1
+    6400342: pCylinder1
+    6400344: pCylinder1 1
+    6400346: pCylinder1 2
+    6400348: pCylinder1 3
+    6400350: pCylinder1 4
+    6400352: pCylinder1 5
+    6400354: pCylinder1 6
+    6400356: pCylinder1 7
+    6400358: pCylinder2
+    6400360: pCylinder2 1
+    6400362: pCylinder2 2
+    6400364: pCylinder2 3
+    6400366: pCylinder2 4
+    6400368: pCylinder2 5
+    6400370: pCylinder2 6
+    6400372: pCylinder2 7
+    6400374: pCylinder3
+    6400376: pCylinder3 1
+    6400378: pCylinder3 10
+    6400380: pCylinder3 11
+    6400382: pCylinder3 12
+    6400384: pCylinder3 13
+    6400386: pCylinder3 14
+    6400388: pCylinder3 15
+    6400390: pCylinder3 16
+    6400392: pCylinder3 17
+    6400394: pCylinder3 18
+    6400396: pCylinder3 19
+    6400398: pCylinder3 2
+    6400400: pCylinder3 20
+    6400402: pCylinder3 21
+    6400404: pCylinder3 22
+    6400406: pCylinder3 23
+    6400408: pCylinder3 24
+    6400410: pCylinder3 25
+    6400412: pCylinder3 26
+    6400414: pCylinder3 27
+    6400416: pCylinder3 28
+    6400418: pCylinder3 29
+    6400420: pCylinder3 3
+    6400422: pCylinder3 30
+    6400424: pCylinder3 31
+    6400426: pCylinder3 4
+    6400428: pCylinder3 5
+    6400430: pCylinder3 6
+    6400432: pCylinder3 7
+    6400434: pCylinder3 8
+    6400436: pCylinder3 9
+    6400438: pCylinder4
+    6400440: pCylinder4 1
+    6400442: pCylinder4 10
+    6400444: pCylinder4 11
+    6400446: pCylinder4 12
+    6400448: pCylinder4 13
+    6400450: pCylinder4 14
+    6400452: pCylinder4 15
+    6400454: pCylinder4 16
+    6400456: pCylinder4 17
+    6400458: pCylinder4 18
+    6400460: pCylinder4 19
+    6400462: pCylinder4 2
+    6400464: pCylinder4 20
+    6400466: pCylinder4 21
+    6400468: pCylinder4 22
+    6400470: pCylinder4 23
+    6400472: pCylinder4 24
+    6400474: pCylinder4 25
+    6400476: pCylinder4 26
+    6400478: pCylinder4 27
+    6400480: pCylinder4 28
+    6400482: pCylinder4 29
+    6400484: pCylinder4 3
+    6400486: pCylinder4 30
+    6400488: pCylinder4 31
+    6400490: pCylinder4 4
+    6400492: pCylinder4 5
+    6400494: pCylinder4 6
+    6400496: pCylinder4 7
+    6400498: pCylinder4 8
+    6400500: pCylinder4 9
+    6400502: pCylinder5
+    6400504: pCylinder5 1
+    6400506: pCylinder5 10
+    6400508: pCylinder5 11
+    6400510: pCylinder5 12
+    6400512: pCylinder5 13
+    6400514: pCylinder5 14
+    6400516: pCylinder5 15
+    6400518: pCylinder5 16
+    6400520: pCylinder5 17
+    6400522: pCylinder5 18
+    6400524: pCylinder5 19
+    6400526: pCylinder5 2
+    6400528: pCylinder5 20
+    6400530: pCylinder5 21
+    6400532: pCylinder5 22
+    6400534: pCylinder5 23
+    6400536: pCylinder5 24
+    6400538: pCylinder5 25
+    6400540: pCylinder5 26
+    6400542: pCylinder5 27
+    6400544: pCylinder5 28
+    6400546: pCylinder5 29
+    6400548: pCylinder5 3
+    6400550: pCylinder5 30
+    6400552: pCylinder5 31
+    6400554: pCylinder5 4
+    6400556: pCylinder5 5
+    6400558: pCylinder5 6
+    6400560: pCylinder5 7
+    6400562: pCylinder5 8
+    6400564: pCylinder5 9
+    6400566: player_scale
+    6400568: polySurface34
+    6400570: polySurface35
+    6400572: polySurface36
+    6400574: polySurface37
+    6400576: polySurface38
+    6400578: polySurface39
+    6400580: polySurface40
+    6400582: pSphere10
+    6400584: pSphere10 1
+    6400586: pSphere10 10
+    6400588: pSphere10 11
+    6400590: pSphere10 12
+    6400592: pSphere10 13
+    6400594: pSphere10 14
+    6400596: pSphere10 15
+    6400598: pSphere10 16
+    6400600: pSphere10 17
+    6400602: pSphere10 18
+    6400604: pSphere10 19
+    6400606: pSphere10 2
+    6400608: pSphere10 20
+    6400610: pSphere10 21
+    6400612: pSphere10 22
+    6400614: pSphere10 23
+    6400616: pSphere10 24
+    6400618: pSphere10 25
+    6400620: pSphere10 26
+    6400622: pSphere10 27
+    6400624: pSphere10 28
+    6400626: pSphere10 29
+    6400628: pSphere10 3
+    6400630: pSphere10 30
+    6400632: pSphere10 31
+    6400634: pSphere10 4
+    6400636: pSphere10 5
+    6400638: pSphere10 6
+    6400640: pSphere10 7
+    6400642: pSphere10 8
+    6400644: pSphere10 9
+    6400646: pSphere11
+    6400648: pSphere8
+    6400650: pSphere8 1
+    6400652: pSphere8 2
+    6400654: pSphere8 3
+    6400656: pSphere8 4
+    6400658: pSphere8 5
+    6400660: pSphere8 6
+    6400662: pSphere8 7
+    6400664: pSphere9
+    6400666: pSphere9 1
+    6400668: pSphere9 10
+    6400670: pSphere9 11
+    6400672: pSphere9 12
+    6400674: pSphere9 13
+    6400676: pSphere9 14
+    6400678: pSphere9 15
+    6400680: pSphere9 16
+    6400682: pSphere9 17
+    6400684: pSphere9 18
+    6400686: pSphere9 19
+    6400688: pSphere9 2
+    6400690: pSphere9 20
+    6400692: pSphere9 21
+    6400694: pSphere9 22
+    6400696: pSphere9 23
+    6400698: pSphere9 24
+    6400700: pSphere9 25
+    6400702: pSphere9 26
+    6400704: pSphere9 27
+    6400706: pSphere9 28
+    6400708: pSphere9 29
+    6400710: pSphere9 3
+    6400712: pSphere9 30
+    6400714: pSphere9 31
+    6400716: pSphere9 4
+    6400718: pSphere9 5
+    6400720: pSphere9 6
+    6400722: pSphere9 7
+    6400724: pSphere9 8
+    6400726: pSphere9 9
+    6400728: pTorus1
+    6400730: pTorus1 1
+    6400732: pTorus2
+    6400734: pTorus2 1
+    6400736: Rivot_14
+    6400738: Rivot_15
+    6400740: Rivot_19
+    6400742: Rivot_20
+    6400744: Rivot_21
+    6400746: Rivot_3
+    6400748: Sholder
+    6400750: Sholder 1
+    6400752: Sholder 2
+    6400754: Sholder 3
+    6400756: Sholder 4
+    6400758: Sholder 5
+    6400760: Sholder 6
+    6400762: Sholder 7
+    6400764: Spartan:Ankle
+    6400766: Spartan:Ankle 1
+    6400768: Spartan:Arc
+    6400770: Spartan:Arc 1
+    6400772: Spartan:Armpit
+    6400774: Spartan:Armpit 1
+    6400776: Spartan:Belt
+    6400778: Spartan:Bicep
+    6400780: Spartan:Bicep 1
+    6400782: Spartan:Bracer
+    6400784: Spartan:Bracer 1
+    6400786: Spartan:Cape1
+    6400788: Spartan:Cape_Pin
+    6400790: Spartan:Forearm
+    6400792: Spartan:Forearm 1
+    6400794: Spartan:Hand 2
+    6400796: Spartan:Hand 3
+    6400798: Spartan:head
+    6400800: Spartan:Heel
+    6400802: Spartan:Heel 1
+    6400804: Spartan:Knee
+    6400806: Spartan:Knee 1
+    6400808: Spartan:Knuckle
+    6400810: Spartan:Knuckle 1
+    6400812: Spartan:Knuckle1
+    6400814: Spartan:Knuckle1 1
+    6400816: Spartan:Knuckle2
+    6400818: Spartan:Knuckle2 1
+    6400820: Spartan:Knuckle3
+    6400822: Spartan:Knuckle3 1
+    6400824: Spartan:Leg
+    6400826: Spartan:Leg 1
+    6400828: Spartan:Lower_torso
+    6400830: Spartan:Neck
+    6400832: Spartan:pCylinder1
+    6400834: Spartan:pCylinder1 1
+    6400836: Spartan:pCylinder2
+    6400838: Spartan:pCylinder2 1
+    6400840: Spartan:pCylinder3
+    6400842: Spartan:pCylinder3 1
+    6400844: Spartan:pCylinder3 2
+    6400846: Spartan:pCylinder3 3
+    6400848: Spartan:pCylinder3 4
+    6400850: Spartan:pCylinder3 5
+    6400852: Spartan:pCylinder3 6
+    6400854: Spartan:pCylinder3 7
+    6400856: Spartan:pCylinder4
+    6400858: Spartan:pCylinder4 1
+    6400860: Spartan:pCylinder4 2
+    6400862: Spartan:pCylinder4 3
+    6400864: Spartan:pCylinder4 4
+    6400866: Spartan:pCylinder4 5
+    6400868: Spartan:pCylinder4 6
+    6400870: Spartan:pCylinder4 7
+    6400872: Spartan:pCylinder5
+    6400874: Spartan:pCylinder5 1
+    6400876: Spartan:pCylinder5 2
+    6400878: Spartan:pCylinder5 3
+    6400880: Spartan:pCylinder5 4
+    6400882: Spartan:pCylinder5 5
+    6400884: Spartan:pCylinder5 6
+    6400886: Spartan:pCylinder5 7
+    6400888: Spartan:pSphere10
+    6400890: Spartan:pSphere10 1
+    6400892: Spartan:pSphere10 2
+    6400894: Spartan:pSphere10 3
+    6400896: Spartan:pSphere10 4
+    6400898: Spartan:pSphere10 5
+    6400900: Spartan:pSphere10 6
+    6400902: Spartan:pSphere10 7
+    6400904: Spartan:pSphere8
+    6400906: Spartan:pSphere8 1
+    6400908: Spartan:pSphere9
+    6400910: Spartan:pSphere9 1
+    6400912: Spartan:pSphere9 2
+    6400914: Spartan:pSphere9 3
+    6400916: Spartan:pSphere9 4
+    6400918: Spartan:pSphere9 5
+    6400920: Spartan:pSphere9 6
+    6400922: Spartan:pSphere9 7
+    6400924: Spartan:Sholder
+    6400926: Spartan:Sholder 1
+    6400928: Spartan:Thigh
+    6400930: Spartan:Thigh 1
+    6400932: Spartan:Thigh_1
+    6400934: Spartan:Thigh_1 1
+    6400936: Spartan:Thumb_Base
+    6400938: Spartan:Thumb_Base 1
+    6400940: Spartan:Toes
+    6400942: Spartan:Toes 1
+    6400944: Spartan:Torso1
+    6400946: Spartan:Waist 1
+    6400948: Spike
+    6400950: Spike_1
+    6400952: Spike_2
+    6400954: Thigh
+    6400956: Thigh 1
+    6400958: Thigh_1
+    6400960: Thigh_1 1
+    6400962: Thumb_Base
+    6400964: Thumb_Base 1
+    6400966: Thumb_Base 2
+    6400968: Thumb_Base 3
+    6400970: Thumb_Base 4
+    6400972: Thumb_Base 5
+    6400974: Thumb_Base 6
+    6400976: Thumb_Base 7
+    6400978: Toes
+    6400980: Toes 1
+    6400982: Tomb
+    6400984: Torso1
+    6400986: Torso1 1
+    6400988: Torso1 2
+    6400990: Torso1 3
+    6400992: Waist 1
+    6400994: Wolf_Head
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
